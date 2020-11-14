@@ -1,5 +1,5 @@
-PROFILE_GUI_NAME: '§a• §6§lПрофиль'
-PROFILE_GUI_LORE:
+PROFILE_GUI_ITEM_NAME: '§a• §6§lПрофиль'
+PROFILE_GUI_ITEM_LORE:
 - ''
 - '§c↪ §fДонат: %s'
 - '' 
@@ -12,8 +12,8 @@ PROFILE_GUI_LORE:
 - ''
 - '§c↪ §fНаиграно времени: §a%s'
 - '§c↪ §fНаиграно с момента входа: §e%s'
-LEVEL_GUI_NAME: '§a• §6§lУровень'
-LEVEL_GUI_LORE:
+LEVEL_GUI_ITEM_NAME: '§a• §6§lУровень'
+LEVEL_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fИграя на сервере, вы получаете'
 - '§c▪ §fигровой опыт который необходим'
@@ -25,50 +25,62 @@ LEVEL_GUI_LORE:
 - '§c↪ §fДо получения следующего: §6%s §fопыта'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню наград'
-SETTINGS_GUI_NAME: '§a• §6§lНастройки'
-SETTINGS_GUI_LORE:
+SETTINGS_GUI_ITEM_NAME: '§a• §6§lНастройки'
+SETTINGS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fВаши персональные настройки'
 - ''
+- '§c↪ §fСкрытие игроков: %s'
+- '§c↪ §fКровь: %s'
+- '§c↪ §fПолет: %s'
+- '§c↪ §fЧат: %s'
+- '§c↪ §fСкорборд: %s'
+- '§c↪ §fЛичные сообщения: %s'
+- '§c↪ §fЗапросы в друзья: %s'
+- '§c↪ §fЗапросы в кланы: %s'
+- '§c↪ §fДонат-Чат: %s'
+- '§c↪ §fРекламные сообщения: %s'
+- '§c↪ §fВерхняя полоска: %s'
+- ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню настроек'
-DONATE_GUI_NAME: '§a• §6§lДонат-Услуги'
-DONATE_GUI_LORE:
+DONATE_GUI_ITEM_NAME: '§a• §6§lДонат-Услуги'
+DONATE_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fМеню донат-услуг сервера'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню донат-услуг'
-INFORMATION_GUI_NAME: '§a• §6§lИнформация'
-INFORMATION_GUI_LORE:
+INFORMATION_GUI_ITEM_NAME: '§a• §6§lИнформация'
+INFORMATION_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fОсновная информация для игры на сервере'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть информационное меню'
-TITULS_GUI_NAME: '§a• §6§lТитулы'
-TITULS_GUI_LORE:
+TITULS_GUI_ITEM_NAME: '§a• §6§lТитулы'
+TITULS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fТитулы - слова которые ставятся после вашего ника'
 - '§c▪ §fВ данном меню вы сможете посмотреть'
 - '§c▪ §fинформацию о всех титулах и их получении'
 - ''
-- '§a✓ §fРазблокировано титулов: §e§8/§c'
+- '§a✓ §fРазблокировано титулов: §e%s§8/§a'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню титулов'
-EFFECTS_GUI_NAME: '§a• §6§lЭффекты'
-EFFECTS_GUI_LORE:
+EFFECTS_GUI_ITEM_NAME: '§a• §6§lЭффекты'
+EFFECTS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fУстанавливайте различные косметические'
 - '§c▪ §fулучшения на стрелы, убийства и другое'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню эффектов'
-DONATE_MENU_GUI_NAME: '§a• §6§lМеню донатера'
-DONATE_MENU_GUI_LORE:
+DONATE_MENU_GUI_ITEM_NAME: '§a• §6§lМеню донатера'
+DONATE_MENU_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fДополнительные возможности для донатеров'
 - '§c▪ §fБыстрые сообщения, сообщения при входе и выходе'
 - '§c▪ §fи другие уникальные улучшения'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню донатера'
-SOULS_GUI_NAME: '§a• §6§lДухи'
+SOULS_GUI_ITEM_NAME: '§a• §6§lДухи'
 - ''
 - '§c▪ §fДухи - это маленькие существа'
 - '§c▪ §fкоторые будут летать возле вас'
