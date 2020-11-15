@@ -151,12 +151,12 @@ BOSSBAR_GUI_ITEM_LORE:
 SETTINGS_GUI_BUTTON_ENABLED_NAME: '§a✔ §6§lВключено'
 SETTINGS_GUI_BUTTON_ENABLED_LORE:
 - ''
-- '§a▸ Нажмите, чтобы §nвыключить§a данную функцию'
+- '§a▸ Нажмите, чтобы §c§nвыключить§a данную функцию'
 SETTINGS_GUI_BUTTON_DISABLED_NAME: '§c✖ §6§lВыключено'
 SETTINGS_GUI_BUTTON_DISABLED_LORE:
 - ''
 - '§a▸ Нажмите, чтобы §nвключить§a данную функцию'
-SETTING_ACCESS_STATUS: '§c▪ §fИзменение настройки доступно от: %s'
+SETTING_ACCESS_STATUS: '§c▪ §fНастройка доступна от привилегии: %s'
 
 COMMAND_LEVEL:
 - '§6§lИгровой уровень §8| §fВаш текущий уровень: §b%s'
