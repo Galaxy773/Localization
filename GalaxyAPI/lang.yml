@@ -4,7 +4,6 @@ PROFILE_GUI_ITEM_NAME: '§a• §6§lПрофиль'
 PROFILE_GUI_ITEM_LORE:
 - ''
 - '§c↪ §fДонат: %s'
-- '' 
 - '§c↪ §fКрышек: §6%s'
 - '§c'
 - '§c↪ §fУровень: §b%s'
