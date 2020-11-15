@@ -1,4 +1,5 @@
 PROFILE_MAIN_GUI_NAME: '§8Профиль'
+SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 
 PROFILE_GUI_ITEM_NAME: '§a• §6§lПрофиль'
 PROFILE_GUI_ITEM_LORE:
@@ -42,7 +43,6 @@ SETTINGS_GUI_ITEM_LORE:
 - '§c↪ §fЗапросы в друзья: %s'
 - '§c↪ §fЗапросы в кланы: %s'
 - '§c↪ §fДонат-Чат: %s'
-- '§c↪ §fРекламные сообщения: %s'
 - '§c↪ §fВерхняя полоска: %s'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню настроек'
@@ -68,7 +68,7 @@ TITULS_GUI_ITEM_LORE:
 - '§c▪ §fВ данном меню вы сможете посмотреть'
 - '§c▪ §fинформацию о всех титулах и их получении'
 - ''
-- '§a✓ §fРазблокировано титулов: §e%s§8/§a%s'
+- '§a✔ §fРазблокировано титулов: §e%s§8/§a%s'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню титулов'
 
@@ -97,3 +97,69 @@ SOULS_GUI_ITEM_LORE:
 - '§c▪ §fи давать вам эффекты зелий'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню духов'
+
+HIDER_GUI_ITEM_NAME: '§a• §6§lСкрытие игроков'
+HIDER_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fВключите или выключите'
+- '§c▪ §fвидимость игороков в лобби'
+BLOOD_GUI_ITEM_NAME: '§a• §6§lКровь'
+BLOOD_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fэффект крови во время игры'
+FLY_GUI_ITEM_NAME: '§a• §6§lПолет'
+FLY_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить режим'
+- '§c▪ §fполета в лобби'
+CHAT_GUI_ITEM_NAME: '§a• §6§lЧат'
+CHAT_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fвозможность читать и писать в чат'
+SCOREBOARD_GUI_ITEM_NAME: '§a• §6§lСкорборд'
+SCOREBOARD_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fвидимость таблицы справа в лобби'
+PRIVATE_MESSAGE_GUI_ITEM_NAME: '§a• §6§lПриватные сообщения'
+PRIVATE_MESSAGE_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fприем личных сообщений от игроков'
+FRIENDS_REQUEST_GUI_ITEM_NAME: '§a• §6§lЗапросы в друзья'
+FRIENDS_REQUEST_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fзапросы на добавление в друзья'
+CLANS_REQUEST_GUI_ITEM_NAME: '§a• §6§lЗапросы в кланы'
+CLANS_REQUEST_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fприглашения в кланы от других игроков'
+DONATE_CHAT_GUI_ITEM_NAME: '§a• §6§lДонат-Чат'
+DONATE_CHAT_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fвозможность читать и писать в донат-чат'
+BOSSBAR_GUI_ITEM_NAME: '§a• §6§lВерхняя полоска'
+BOSSBAR_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fПозволяет включить или выключить'
+- '§c▪ §fотображение верхней полоски'
+SETTINGS_GUI_BUTTON_ENABLED_NAME: '§a✔ §7Включено'
+SETTINGS_GUI_BUTTON_ENABLED_LORE:
+- ''
+- '§c▸ Нажмите, чтобы выключить данную функцию'
+SETTINGS_GUI_BUTTON_DISABLED_NAME: '§c✖ §7Выключено'
+SETTINGS_GUI_BUTTON_DISABLED_LORE:
+- ''
+- '§a▸ Нажмите, чтобы включить данную функцию'
+
+COMMAND_LEVEL:
+- '§6§lИгровой уровень §8| §fВаш текущий уровень: §b%s'
+- '§6§lИгровой уровень §8| §fДо следующего уровня: §d%s §fопыта'
+
+SETTING_NOT_ACCESS: '§6§lНастройки §8| §fУправление данной настройкой доступно от привилегии %s'
+SETTING_CHANGE_COOLDOWN: '§6§lНастройки §8| §fПодождите §e%s секунд §fперед повторной сменой настройки'
