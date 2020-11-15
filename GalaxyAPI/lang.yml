@@ -12,6 +12,7 @@ PROFILE_GUI_ITEM_LORE:
 - ''
 - '§c↪ §fНаиграно времени: §a%s'
 - '§c↪ §fНаиграно с момента входа: §e%s'
+
 LEVEL_GUI_ITEM_NAME: '§a• §6§lУровень'
 LEVEL_GUI_ITEM_LORE:
 - ''
@@ -25,6 +26,7 @@ LEVEL_GUI_ITEM_LORE:
 - '§c↪ §fДо получения следующего: §6%s §fопыта'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню наград'
+
 SETTINGS_GUI_ITEM_NAME: '§a• §6§lНастройки'
 SETTINGS_GUI_ITEM_LORE:
 - ''
@@ -43,18 +45,21 @@ SETTINGS_GUI_ITEM_LORE:
 - '§c↪ §fВерхняя полоска: %s'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню настроек'
+
 DONATE_GUI_ITEM_NAME: '§a• §6§lДонат-Услуги'
 DONATE_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fМеню донат-услуг сервера'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню донат-услуг'
+
 INFORMATION_GUI_ITEM_NAME: '§a• §6§lИнформация'
 INFORMATION_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fОсновная информация для игры на сервере'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть информационное меню'
+
 TITULS_GUI_ITEM_NAME: '§a• §6§lТитулы'
 TITULS_GUI_ITEM_LORE:
 - ''
@@ -65,6 +70,7 @@ TITULS_GUI_ITEM_LORE:
 - '§a✓ §fРазблокировано титулов: §e%s§8/§a'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню титулов'
+
 EFFECTS_GUI_ITEM_NAME: '§a• §6§lЭффекты'
 EFFECTS_GUI_ITEM_LORE:
 - ''
@@ -72,6 +78,7 @@ EFFECTS_GUI_ITEM_LORE:
 - '§c▪ §fулучшения на стрелы, убийства и другое'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню эффектов'
+
 DONATE_MENU_GUI_ITEM_NAME: '§a• §6§lМеню донатера'
 DONATE_MENU_GUI_ITEM_LORE:
 - ''
@@ -80,7 +87,9 @@ DONATE_MENU_GUI_ITEM_LORE:
 - '§c▪ §fи другие уникальные улучшения'
 - ''
 - '§a{animation:cursor} Нажмите, чтобы окрыть меню донатера'
+
 SOULS_GUI_ITEM_NAME: '§a• §6§lДухи'
+SOULS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fДухи - это маленькие существа'
 - '§c▪ §fкоторые будут летать возле вас'
