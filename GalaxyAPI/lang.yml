@@ -1,6 +1,11 @@
 PROFILE_MAIN_GUI_NAME: '§8Профиль'
 SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 TITULS_CATEGORY_GUI_NAME: '§8Профиль ▸ Титулы'
+
+PROFILE_BACK_ITEM_NAME: '§c§lВернуться назад'
+PROFILE_BACK_ITEM_LORE:
+- ''
+- '§a↪ Нажмите, чтобы вернуться в предыдущее меню'
 PROFILE_GUI_ITEM_NAME: '§a• §6§lПрофиль'
 PROFILE_GUI_ITEM_LORE:
 - ''
