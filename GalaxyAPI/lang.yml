@@ -198,10 +198,27 @@ TITULS_MARVEL_CATEGORY_ITEM_LORE:
 - ''
 - '§c▪ §fРазблокировано титулов §e%s§8/§a%s §6%s'
 - ''
-- '§a▸ Нажмите, чтобы открыть' 
+- '§a▸ Нажмите, чтобы открыть'
+TITUL_SELECTED_GUI_ITEM_NAME: '§8Титул %s'
+TITUL_SELECTED_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fУ вас выбран данный титул'
+TITUL_ACCESS_GUI_ITEM_NAME: '§8Титул %s'
+TITUL_ACCESS_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fВам доступен данный титул'
+- ''
+- '§a▸ Нажмите, чтобы установить'
+TITUL_DENY_GUI_ITEM_NAME: '§8Титул %s'
+TITUL_DENY_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fУ вас не разблокирован данный титул'
+
 COMMAND_LEVEL:
 - '§6§lИгровой уровень §8| §fВаш текущий уровень: §b%s'
 - '§6§lИгровой уровень §8| §fДо следующего уровня: §d%s §fопыта'
 
 SETTING_NOT_ACCESS: '§6§lНастройки §8| §fУправление данной настройкой доступно от привилегии %s'
-SETTING_CHANGE_COOLDOWN: '§6§lНастройки §8| §fПодождите §e%s секунд §fперед повторной сменой настройки'
+SETTING_CHANGE_COOLDOWN: '§6§lНастройки §8| §fПодождите §e%s сек. §fперед повторной сменой настройки'
+TITUL_SELECT_COOLDOWN: '§6§lТитулы §8| §fПодождите §e%s §e%s сек. §fперед повторной сменой титула'
+TITUL_SELECT: '§6§lТитулы §8| §fВы §aустановили §fтитул %s'
