@@ -161,7 +161,7 @@ SETTINGS_GUI_BUTTON_DISABLED_NAME: '§c✖ §6§lВыключено'
 SETTINGS_GUI_BUTTON_DISABLED_LORE:
 - ''
 - '§a▸ Нажмите, чтобы §nвключить§a данную функцию'
-SETTING_ACCESS_STATUS: '§c▪ §fНастройка доступна от привилегии: %s'
+SETTING_ACCESS_STATUS: '§6↪  §fНастройка доступна от привилегии: %s'
 
 TITULS_BASE_CATEGORY_ITEM_NAME: '§a§lБазовые'
 TITULS_BASE_CATEGORY_ITEM_LORE:
