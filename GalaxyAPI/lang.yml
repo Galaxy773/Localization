@@ -199,20 +199,27 @@ TITULS_MARVEL_CATEGORY_ITEM_LORE:
 - '§c▪ §fРазблокировано титулов §e%s§8/§a%s §6%s'
 - ''
 - '§a▸ Нажмите, чтобы открыть'
-TITUL_SELECTED_GUI_ITEM_NAME: '§8Титул %s'
+TITUL_SELECTED_GUI_ITEM_NAME: '§8Титул: %s'
 TITUL_SELECTED_GUI_ITEM_LORE:
 - ''
-- '§c▪ §fУ вас выбран данный титул'
-TITUL_ACCESS_GUI_ITEM_NAME: '§8Титул %s'
+- '§c▪ §fРедкость: %s'
+- '§c▪ §fСтатус: §aвыбран'
+TITUL_ACCESS_GUI_ITEM_NAME: '§8Титул: %s'
 TITUL_ACCESS_GUI_ITEM_LORE:
 - ''
-- '§c▪ §fВам доступен данный титул'
+- '§c▪ §fРедкость: %s'
+- '§c▪ §fСтатус: §aдоступен'
 - ''
 - '§a▸ Нажмите, чтобы установить'
-TITUL_DENY_GUI_ITEM_NAME: '§8Титул %s'
+TITUL_DENY_GUI_ITEM_NAME: '§8Титул: %s'
 TITUL_DENY_GUI_ITEM_LORE:
 - ''
-- '§c▪ §fУ вас не разблокирован данный титул'
+- '§c▪ §fРедкость: %s'
+- '§c▪ §fСтатус: §cне доступен'
+- ''
+- '§6↪ §fСтоимость: §e%s §fкрышек'
+- ''
+- '§a▸ Нажмите, чтобы купить'
 
 COMMAND_LEVEL:
 - '§6§lИгровой уровень §8| §fВаш текущий уровень: §b%s'
