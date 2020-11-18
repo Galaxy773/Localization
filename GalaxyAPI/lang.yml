@@ -244,6 +244,8 @@ FAST_MESSAGE_ACCESS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fСообщение: %s'
 - ''
+- '§c▪ §fВам §aдоступно §fданное сообщение'
+- ''
 - '§a▸ Нажмите, чтобы отправить'
 FAST_MESSAGE_DENY_GUI_ITEM_NAME: '§b§lСообщение #%s'
 FAST_MESSAGE_DENY_GUI_ITEM_LORE:
@@ -266,18 +268,20 @@ JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE:
 - '§c▪ §fСообщение: %s'
 - ''
 - '§c▪ §fУ вас §aвыбрано §fданное сообщение'
-JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME: '§b§lСообщение #%s'
-JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE:
+JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME: '§b§lСообщение #%s'
+JOIN_MESSAGE_ACCESS_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fСообщение: %s'
 - ''
-- '§c▪ §fУ вас §aвыбрано §fданное сообщение'
-JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME: '§b§lСообщение #%s'
-JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE:
+- '§c▪ §fВам §aдоступно §fданное сообщение'
+- ''
+- '§a▸ Нажмите, чтобы установить'
+JOIN_MESSAGE_DENY_GUI_ITEM_NAME: '§b§lСообщение #%s'
+JOIN_MESSAGE_DENY_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fСообщение: %s'
 - ''
-- '§c▪ §fУ вас §aвыбрано §fданное сообщение'
+- '§6↪ §fДоступно от %s'
 QUIT_MESSAGES_GUI_ITEM_NAME: '§a• §6§lСообщения при выходе'
 QUIT_MESSAGES_GUI_ITEM_LORE:
 - ''
@@ -287,7 +291,26 @@ QUIT_MESSAGES_GUI_ITEM_LORE:
 - '§6↪ §fДоступно от %s'
 - ''
 - '§a▸ Нажмите, чтобы посмотреть'
-
+QUIT_MESSAGE_SELECTED_GUI_ITEM_NAME: '§b§lСообщение #%s'
+QUIT_MESSAGE_SELECTED_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fСообщение: %s'
+- ''
+- '§c▪ §fУ вас §aвыбрано §fданное сообщение'
+QUIT_MESSAGE_ACCESS_GUI_ITEM_NAME: '§b§lСообщение #%s'
+QUIT_MESSAGE_ACCESS_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fСообщение: %s'
+- ''
+- '§c▪ §fВам §aдоступно §fданное сообщение'
+- ''
+- '§a▸ Нажмите, чтобы установить'
+QUIT_MESSAGE_DENY_GUI_ITEM_NAME: '§b§lСообщение #%s'
+QUIT_MESSAGE_DENY_GUI_ITEM_LORE:
+- ''
+- '§c▪ §fСообщение: %s'
+- ''
+- '§6↪ §fДоступно от %s'
 COMMAND_LEVEL:
 - '§6§lИгровой уровень §8| §fВаш текущий уровень: §b%s'
 - '§6§lИгровой уровень §8| §fДо следующего уровня: §d%s §fопыта'
