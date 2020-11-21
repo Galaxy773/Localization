@@ -108,7 +108,7 @@ HIDER_GUI_ITEM_NAME: '§a• §6§lСкрытие игроков'
 HIDER_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fВключите или выключите'
-- '§c▪ §fвидимость игороков в лобби'
+- '§c▪ §fвидимость игороков в §f§nлобби'
 BLOOD_GUI_ITEM_NAME: '§a• §6§lКровь'
 BLOOD_GUI_ITEM_LORE:
 - ''
@@ -118,7 +118,7 @@ FLY_GUI_ITEM_NAME: '§a• §6§lПолет'
 FLY_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fПозволяет включить режим'
-- '§c▪ §fполета в лобби'
+- '§c▪ §fполета в §f§nлобби'
 CHAT_GUI_ITEM_NAME: '§a• §6§lЧат'
 CHAT_GUI_ITEM_LORE:
 - ''
@@ -128,7 +128,7 @@ SCOREBOARD_GUI_ITEM_NAME: '§a• §6§lСкорборд'
 SCOREBOARD_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fПозволяет включить или выключить'
-- '§c▪ §fвидимость таблицы справа в лобби'
+- '§c▪ §fвидимость таблицы справа в §f§nлобби'
 PRIVATE_MESSAGE_GUI_ITEM_NAME: '§a• §6§lПриватные сообщения'
 PRIVATE_MESSAGE_GUI_ITEM_LORE:
 - ''
@@ -153,7 +153,7 @@ BOSSBAR_GUI_ITEM_NAME: '§a• §6§lВерхняя полоска'
 BOSSBAR_GUI_ITEM_LORE:
 - ''
 - '§c▪ §fПозволяет включить или выключить'
-- '§c▪ §fотображение верхней полоски'
+- '§c▪ §fотображение верхней полоски в §f§nлобби'
 SETTINGS_GUI_BUTTON_ENABLED_NAME: '§a✔ §6§lВключено'
 SETTINGS_GUI_BUTTON_ENABLED_LORE:
 - ''
