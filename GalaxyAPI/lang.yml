@@ -340,7 +340,7 @@ LEVEL_UP:
 - '           Ваш новый уровень: §d§l%s'
 - ''
 - '§8§m                                        §r'
-COINS_INFO: '§6§lКрышки §8| §fУ вас на балансе: §a%2$s §fкредитов'
+COINS_INFO: '§6§lКрышки §8| §fУ вас на балансе: §a%s §fкредитов'
 COINS_GET_USE: '§6§lКрышки §8| §fИспользование: §a/coins get [ник]'
 COINS_GET_SUCCESS: '§6§lКрышки §8| §fУ игрока §e%s §a%s §fкредитов'
 COINS_GIVE_USE: '§3§lFixMine §8| §fИспользование: §a/coins give [ник] [количество]'
