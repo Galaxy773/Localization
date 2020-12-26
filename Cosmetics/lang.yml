@@ -1,4 +1,4 @@
-EFFECTS_MAIN_GUI_NAME: '§8Эффекты'
+EFFECTS_GUI_NAME: '§8Эффекты'
 ARROWS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Стрелы'
 CRITS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Криты'
 KILLS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Убийства'
@@ -21,6 +21,27 @@ EFFECT_VILLAGER_HAPPY: '§2Изумруды'
 EFFECT_MAGIC_NAME: '§dМагия'
 EFFECT_SPELL_WITCH_NAME: '§9Темная магия'
 
+ARROWS_EFFECTS_NAME: '&bЭффекты для стрел'
+ARROWS_EFFECTS_LORE:
+- ''
+- '§c▪ §fДоступно эффектов: &e%s&7/&c%s'
+- '§c▪ §fЭффект будет виден во время полета стрел'
+- ''
+- '§a▸ §fНажмите, чтобы посмотреть'
+CRITS_EFFECTS_NAME: '&bЭффекты для критов'
+CRITS_EFFECTS_LORE:
+- ''
+- '§c▪ §fДоступно эффектов: &e%s&7/&c%s'
+- '§c▪ §fЭффект будет виден во время крит. ударов'
+- ''
+- '§a▸ §fНажмите, чтобы посмотреть'
+KILLS_EFFECTS_NAME: '&bЭффекты для убийств'
+KILLS_EFFECTS_LORE:
+- ''
+- '§c▪ §fДоступно эффектов: &e%s&7/&c%s'
+- '§c▪ §fЭффект будет виден во время совершения убийства'
+- ''
+- '§a▸ §fНажмите, чтобы посмотреть'
 EFFECT_IS_SELECTED_LORE:
 - ''
 - '§c▪ §fСтатус: §aвыбран'
