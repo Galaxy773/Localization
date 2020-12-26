@@ -179,7 +179,7 @@ SOUL_LEVEL_1_NAME: '§cБронзовый'
 SOUL_LEVEL_2_NAME: '§aСеребряный'
 SOUL_LEVEL_3_NAME: '§6Золотой'
 SOUL_LEVEL_4_NAME: '§bАлмазный'
-SOUL_LEVEL_NAME: '§8Текущий уровень: %s'
+SOUL_LEVEL_NAME: '§8Уровень: %s'
 SOUL_LEVEL_LORE:
 - ''
 - '§c▪ §fУровень: §e%s§7/§a4'
