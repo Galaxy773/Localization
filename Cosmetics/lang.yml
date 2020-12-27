@@ -21,6 +21,7 @@ EFFECT_VILLAGER_HAPPY_NAME: '§2Изумруды'
 EFFECT_MAGIC_NAME: '§dМагия'
 EFFECT_SPELL_WITCH_NAME: '§9Темная магия'
 
+EFFECT_NAME: '§8Эффект: %s'
 ARROWS_EFFECTS_NAME: '§bЭффекты для стрел'
 ARROWS_EFFECTS_LORE:
 - ''
