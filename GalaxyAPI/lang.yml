@@ -373,3 +373,4 @@ TITUL_CLEAR_LORE:
 TITUL_CLEAR: '§6§lТитулы §8| §fВы §aубрали §fустановленный титул'
 TITUL_NOT_SELECTED: '§6§lТитулы §8| §fУ вас §cне установлен §fтитул'
 TITUL_NOT_OPENED: '§6§lТитулы §8| §fДанный титул §cнельзя купить§f, его можно получить из §aсоответствующего кейса'
+COMMAND_ONLY_PLAYERS: 'This command for only players'
