@@ -32,7 +32,7 @@ LEVEL_GUI_ITEM_LORE:
 - ''
 - ' §c↪ §fДо получения следующего §e§l%s §fопыта'
 - ''
-- '§a{animation:cursor} §a§lНажмите§8, чтобы окрыть меню наград'
+- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню наград'
 
 SETTINGS_GUI_ITEM_NAME: '§a• §6§lНастройки'
 SETTINGS_GUI_ITEM_LORE:
