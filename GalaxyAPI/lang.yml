@@ -217,10 +217,10 @@ TITUL_ACCESS_GUI_ITEM_LORE:
 TITUL_DENY_WITH_PRICE_GUI_ITEM_NAME: '§8Титул: %s'
 TITUL_DENY_WITH_PRICE_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §7Редкость: %s'
-- ' §8▪ §7Статус: §cне доступен'
+- ' §8▪ §fРедкость: %s'
+- ' §8▪ §fСтатус: §cне доступен'
 - ''
-- ' §6↪ §fСтоимость: §e%s §fкрышек'
+- ' §6↪ §fСтоимость: §e§l%s §fкрышек'
 - ''
 - '§a▸ §a§lНажмите§7, чтобы купить'
 TITUL_DENY_GUI_ITEM_NAME: '§8Титул: %s'
