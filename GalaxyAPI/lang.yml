@@ -270,14 +270,12 @@ JOIN_MESSAGES_GUI_ITEM_LORE:
 JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME: '§b§lСообщение #%s'
 JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §8▪ §fУ вас §aвыбрано §fданное сообщение'
 JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME: '§b§lСообщение #%s'
 JOIN_MESSAGE_ACCESS_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §8▪ §fВам §aдоступно §fданное сообщение'
@@ -286,7 +284,6 @@ JOIN_MESSAGE_ACCESS_GUI_ITEM_LORE:
 JOIN_MESSAGE_DENY_GUI_ITEM_NAME: '§b§lСообщение #%s'
 JOIN_MESSAGE_DENY_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §6▪ §fДоступно от %s'
@@ -302,14 +299,12 @@ QUIT_MESSAGES_GUI_ITEM_LORE:
 QUIT_MESSAGE_SELECTED_GUI_ITEM_NAME: '§b§lСообщение #%s'
 QUIT_MESSAGE_SELECTED_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §8▪ §fУ вас §aвыбрано §fданное сообщение'
 QUIT_MESSAGE_ACCESS_GUI_ITEM_NAME: '§b§lСообщение #%s'
 QUIT_MESSAGE_ACCESS_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §8▪ §fВам §aдоступно §fданное сообщение'
@@ -318,7 +313,6 @@ QUIT_MESSAGE_ACCESS_GUI_ITEM_LORE:
 QUIT_MESSAGE_DENY_GUI_ITEM_NAME: '§b§lСообщение #%s'
 QUIT_MESSAGE_DENY_GUI_ITEM_LORE:
 - ''
-- ' §8▪ §fСообщение:'
 - ' %s'
 - ''
 - ' §8▪ §fДоступно от %s'
