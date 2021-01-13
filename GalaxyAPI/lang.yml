@@ -162,7 +162,7 @@ SETTINGS_GUI_BUTTON_ENABLED_LORE:
 - '§7Выключить данную функцию'
 - ''
 - '§c§l▸ Нажмите§7, чтобы выключить данную функцию'
-SETTINGS_GUI_BUTTON_DISABLED_NAME: '§с§lВыключено'
+SETTINGS_GUI_BUTTON_DISABLED_NAME: '§c§lВыключено'
 SETTINGS_GUI_BUTTON_DISABLED_LORE:
 - ''
 - '§7Включить данную функцию'
