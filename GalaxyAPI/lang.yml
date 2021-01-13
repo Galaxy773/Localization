@@ -3,10 +3,9 @@ SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 TITULS_CATEGORY_GUI_NAME: '§8Профиль ▸ Титулы'
 DONATE_MENU_GUI_NAME: '§8Профиль ▸ Донат меню'
 
-PROFILE_BACK_ITEM_NAME: '§c↪ Вернуться назад'
+PROFILE_BACK_ITEM_NAME: '§c← §c§lНажмите§7, чтобы вернуться назад'
 PROFILE_BACK_ITEM_LORE:
 - ''
-- '§a▸ §a§lНажмите§7, чтобы вернуться в предыдущее меню'
 PROFILE_GUI_ITEM_NAME: '§6§lПрофиль'
 PROFILE_GUI_ITEM_LORE:
 - ''
