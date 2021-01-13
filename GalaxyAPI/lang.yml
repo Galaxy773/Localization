@@ -110,7 +110,7 @@ HIDER_GUI_ITEM_NAME: '§6§lСкрытие игроков'
 HIDER_GUI_ITEM_LORE:
 - ''
 - '§7Включите или выключите'
-- '§7видимость игороков в §f§nлобби'
+- '§7видимость игороков в §7§nлобби'
 BLOOD_GUI_ITEM_NAME: '§6§lКровь'
 BLOOD_GUI_ITEM_LORE:
 - ''
@@ -120,7 +120,7 @@ FLY_GUI_ITEM_NAME: '§6§lПолет'
 FLY_GUI_ITEM_LORE:
 - ''
 - '§7Позволяет включить режим'
-- '§7полета в §f§nлобби'
+- '§7полета в §7§nлобби'
 CHAT_GUI_ITEM_NAME: '§6§lЧат'
 CHAT_GUI_ITEM_LORE:
 - ''
@@ -130,7 +130,7 @@ SCOREBOARD_GUI_ITEM_NAME: '§6§lСкорборд'
 SCOREBOARD_GUI_ITEM_LORE:
 - ''
 - '§7Позволяет включить или выключить'
-- '§7видимость таблицы справа в §f§nлобби'
+- '§7видимость таблицы справа в §7§nлобби'
 PRIVATE_MESSAGE_GUI_ITEM_NAME: '§6§lПриватные сообщения'
 PRIVATE_MESSAGE_GUI_ITEM_LORE:
 - ''
