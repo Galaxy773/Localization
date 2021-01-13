@@ -110,7 +110,7 @@ HIDER_GUI_ITEM_NAME: '§6§lСкрытие игроков'
 HIDER_GUI_ITEM_LORE:
 - ''
 - ' §7Включите или выключите'
-- ' §7видимость игороков в §7§nлобби'
+- ' §7видимость игроков в §7§nлобби'
 BLOOD_GUI_ITEM_NAME: '§6§lКровь'
 BLOOD_GUI_ITEM_LORE:
 - ''
@@ -262,7 +262,7 @@ FAST_MESSAGE_DENY_GUI_ITEM_LORE:
 - ' §8▪ §fСообщение: §a%s'
 - ''
 - ' §8▪ §fДоступно от %s'
-JOIN_MESSAGES_GUI_ITEM_NAME: '§a §6§lСообщения при входе'
+JOIN_MESSAGES_GUI_ITEM_NAME: '§6§lСообщения при входе'
 JOIN_MESSAGES_GUI_ITEM_LORE:
 - ''
 - ' §7Установи веселое сообщение'
@@ -290,7 +290,7 @@ JOIN_MESSAGE_DENY_GUI_ITEM_LORE:
 - ''
 - ' %s'
 - ''
-- ' §6▪ §fДоступно от %s'
+- ' §8▪ §fДоступно от %s'
 QUIT_MESSAGES_GUI_ITEM_NAME: '§6§lСообщения при выходе'
 QUIT_MESSAGES_GUI_ITEM_LORE:
 - ''
