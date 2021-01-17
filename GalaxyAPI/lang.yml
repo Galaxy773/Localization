@@ -332,7 +332,7 @@ QUIT_MESSAGE_SELECT_COOLDOWN: '§6§lКастомизация §8| §fПодож
 TITUL_SELECT: '§6§lТитулы §8| §fВы §aустановили §fтитул %s'
 JOIN_MESSAGE_SELECT: '§6§lКастомизация §8| §fВы §aустановили §fсообщение при входе §b#%s'
 QUIT_MESSAGE_SELECT: '§6§lКастомизация §8| §fВы §aустановили §fсообщение при выходе §b#%s'
-NOT_NUMERIC: '§6§lFixMine §8| §fЧисло введено §cневерно'
+NOT_NUMERIC: '§6§lСервер §8| §fЧисло введено §cневерно'
 LEVEL_UP:
 - ''
 - '§8§m                                        §r'
