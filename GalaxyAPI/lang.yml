@@ -576,3 +576,4 @@ SOUL_UPGRADE: '§6§lДухи §8| §fВы §aповысили §fуровень
 SOUL_NOT_BUYED: '§6§lДухи §8| §fУ вас §cне куплен §fданный дух'
 SOUL_SELECT_COOLDOWN: '§6§lДухи §8| §fПодождите §e%s §fсек. перед повторной установкой духа'
 EFFECT_SELECT_COOLDOWN: '§6§lЭффекты §8| §fПодождите §e%s §fсек. перед повторной установкой эффекта'
+LOBBY_CHAT_FORMAT: '{prefix} §f{player} §8[§a{level}§8] » §7{message}'
