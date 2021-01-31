@@ -654,7 +654,7 @@ PRESENTS_FIND_ACTION_BAR: '&e+&6&l%s &eзолота &8| &e+&6&l%s &eопыта'
 PRESENTS_COMPLETE_TITLE: '&6&lПоздравляем!'
 PRESENTS_COMPLETE_SUBTITLE: '&fВы отыскали &aвсе &fновогодние подарки'
 BOSS_BAR_LOBBY:
-- '§fНОВОГОДНИЕ §cСКИДКИ! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §630%'
+- '§fНОВОГОДНИЕ §cСКИДКИ! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §630%%'
 - '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lFIXMINE.RU'
 - '§9§lDISCORD &fСЕРВЕРА §7► §d§lDISCORD.FIXMINE.RU'
 HOLOGRAM_LEVEL_TOP_LINES:
