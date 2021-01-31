@@ -665,3 +665,8 @@ HOLOGRAM_ONLINE_TOP_LINES:
 - '{time}'
 - '&7Нажмите здесь, чтобы сменить'
 - '{item:CLOCK}'
+
+BOSS_BAR_LOBBY:
+- '§fНОВОГОДНИЕ §cСКИДКИ! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §630%'
+- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lFIXMINE.RU'
+- '§9§lDISCORD &fСЕРВЕРА §7► §d§lDISCORD.FIXMINE.RU'
