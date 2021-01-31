@@ -621,10 +621,10 @@ LOBBY_BOARD_SITE_LINE: ' §ewww.FixMine.ru'
 LOBBY_JOIN_TITLE: '§8» §6§lFixMine §8«'
 LOBBY_JOIN_SUBTITLE: '§c§lС новым годом!'
 
-PROFILE_ITEM_NAME: '&6Профиль %s'
+PROFILE_ITEM_NAME: '§6§lПрофиль %s'
 PROFILE_ITEM_LORE:
 - ''
-- '&7Нажмите пкм, чтобы посмотреть ваш профиль'
+- '§7Нажмите ПКМ, чтобы посмотреть ваш профиль'
 SELECTOR_MENU_ITEM_NAME: '§6§lВыбор режима §7(ПКМ)'
 SELECTOR_MENU_ITEM_LORE:
 - ''
