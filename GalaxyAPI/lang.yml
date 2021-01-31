@@ -619,7 +619,7 @@ LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
 
 LOBBY_JOIN_TITLE: '§8» §6§lFixMine §8«'
-LOBBY_JOIN_SUBTITLE: '§c§lС новым годом!'
+LOBBY_JOIN_SUBTITLE: '§c§lС §f§lн§c§lо§f§lв§c§lы§f§lм §c§lг§f§lо§c§lд§f§lо§c§lм§f§l!'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s'
 PROFILE_ITEM_LORE:
