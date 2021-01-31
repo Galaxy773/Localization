@@ -606,7 +606,7 @@ SKIN_CHANGE: '§6§lСкины §8| §fВы успешно сменили ски
 
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
-LOBBY_BOARD_DATE_LINE: '     §8'
+LOBBY_BOARD_DATE_LINE: '    §8'
 LOBBY_BOARD_GROUP_LINE: ' Группа: '
 LOBBY_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
 LOBBY_BOARD_LEVEL_LINE: '   Уровень: §d'
