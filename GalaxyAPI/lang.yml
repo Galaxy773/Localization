@@ -618,4 +618,50 @@ LOBBY_BOARD_LOCAL_ONLINE_LINE: ' Онлайн лобби: §e'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: ' §ewww.FixMine.ru'
 
-SELECTOR_MENU_ITEM_NAME: '
+LOBBY_JOIN_TITLE: '&8» &6&lFixMine &8«'
+LOBBY_JOIN_SUBTITLE: '&c&lС новым годом!'
+
+SELECTOR_MENU_ITEM_NAME: '&6&lВыбор режима &7(ПКМ)'
+SELECTOR_MENU_ITEM_LORE:
+- ''
+- '&7Выберите интересный вам режим для игры'
+DONATE_MENU_ITEM_NAME: '&a&lДонат &7(ПКМ)'
+DONATE_MENU_ITEM_LORE:
+- ''
+- '&7Узнайте больше о донат-услугах сервера'
+LOBBY_SELECTOR_ITEM_NAME: '&e&lВыбор лобби &7(ПКМ)'
+LOBBY_SELECTOR_ITEM_LORE:
+- ''
+- '&7Выберите лобби'
+HIDER_ENABLE_NAME: '&a&lПоказать игроков &7(ПКМ)'
+HIDER_ENABLE_LORE:
+- ''
+- '&7Используйте этот предмет,'
+- '&7чтобы показать всех игроков'
+HIDER_DISABLE_NAME: '&c&lСкрыть игроков &7(ПКМ)'
+HIDER_DISABLE_LORE:
+- ''
+- '&7Используйте этот предмет,'
+- '&7чтобы скрыть всех игроков'
+SETTING_HIDER_COOLDOWN: '&6&lНастройки &8| &fПодождите &e%s &fсек. перед повторным использованием'
+SETTING_CHAT_IS_DISABLED: '&6&lНастройки &8| &fУ вас &cотключен &fчат, чтобы включить используйте - &a/settings'
+
+PRESENTS_COMPLETE: '&6&lПодарки &8| &a&lПоздравляем! &fВы смогли отыскать все новогодние подарки!'
+PRESENTS_IS_COMPLETED: '&6&lПодарки &8| &fВы &cуже &fотыскали все подарки'
+PRESENTS_IS_FINDED: '&6&lПодарки &8| &fВы &cуже &fнаходили данный подарок'
+PRESENTS_FIND: '&6&lПодарки &8| &a&lПоздравляем! &fВы нашли подарок &7[&e%s&8/&a%s&7]'
+PRESENTS_FIND_ACTION_BAR: '&e+&6&l%s &eзолота &8| &e+&6&l%s &eопыта'
+PRESENTS_COMPLETE_TITLE: '&6&lПоздравляем!'
+PRESENTS_COMPLETE_SUBTITLE: '&fВы отыскали &aвсе &fновогодние подарки'
+HOLOGRAM_LEVEL_TOP_LINES:
+- '&8« &bТоп по уровням &8»
+- '&fСамые прокаченные игроки'
+- '{time}'
+- '&7Нажмите здесь, чтобы сменить'
+- '{item:EXP_BOTTLE}'
+HOLOGRAM_ONLINE_TOP_LINES:
+- '&8« &6Топ по онлайну &8»
+- '&fСамые активные игроки'
+- '{time}'
+- '&7Нажмите здесь, чтобы сменить'
+- '{item:CLOCK}'
