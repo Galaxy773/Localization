@@ -616,7 +616,7 @@ LOBBY_BOARD_PRESENTS_LINE: '   Подарков найдено: '
 LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_LOCAL_ONLINE_LINE: ' Онлайн лобби: §e'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
-LOBBY_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
+LOBBY_BOARD_SITE_LINE: '      §ewww.FixMine.ru'
 
 LOBBY_JOIN_TITLE: '§8» §6§lFixMine §8«'
 LOBBY_JOIN_SUBTITLE: '§c§lС новым годом!'
