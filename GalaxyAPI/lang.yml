@@ -567,6 +567,7 @@ SOUL_IS_BUYED_LORE:
 - '§a▸ §a§lНажмите§7, чтобы установить'
 SOUL_IS_SELECTED: '§6§lДухи §8| §fУ вас уже §aустановлен §fданный дух'
 SOUL_RIGHT_NO_PERMISSIONS: '§6§lДухи §8| §fУстановка двух духов одновременно §cдоступна §fот привилегии %s'
+NO_PERMISSIONS: '§6§lFixMine §8| §fВам §cнедоступна §fданная возможность'
 SOUL_SELECT: '§6§lДухи §8| §fВы §aустановили §fдуха %s §fкак §e%s'
 BUY_SOUL: '§6§lДухи §8| §fВы §aкупили §fдуха %s'
 SOUL_LEVEL_1_NAME: '§cБронзовый'
@@ -604,4 +605,17 @@ SKIN_CHANGE_ERROR: '§6§lСкины §8| §cОшибка §fполучения 
 SKIN_CHANGE: '§6§lСкины §8| §fВы успешно сменили скин на §a%s'
 
 #LOBBY
-LOBBY_BOARD_NAME: '&6&lFixMine'
+LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
+LOBBY_BOARD_DATE_LINE: '  §8'
+LOBBY_BOARD_GROUP_LINE: ' Группа: '
+LOBBY_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
+LOBBY_BOARD_LEVEL_LINE: '   Уровень: §d'
+LOBBY_BOARD_COINS_LINE: '   Крышки: §b'
+LOBBY_BOARD_GOLD_LINE: '   Золото: §6'
+LOBBY_BOARD_PRESENTS_LINE: '   Подарков найдено: '
+LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
+LOBBY_BOARD_LOCAL_ONLINE_LINE: ' Онлайн лобби: §e'
+LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
+LOBBY_BOARD_SITE_LINE: ' §ewww.FixMine.ru'
+
+SELECTOR_MENU_ITEM_NAME: '
