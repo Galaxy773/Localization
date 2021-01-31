@@ -653,6 +653,10 @@ PRESENTS_FIND: '&6&lПодарки &8| &a&lПоздравляем! &fВы наш
 PRESENTS_FIND_ACTION_BAR: '&e+&6&l%s &eзолота &8| &e+&6&l%s &eопыта'
 PRESENTS_COMPLETE_TITLE: '&6&lПоздравляем!'
 PRESENTS_COMPLETE_SUBTITLE: '&fВы отыскали &aвсе &fновогодние подарки'
+BOSS_BAR_LOBBY:
+- '§fНОВОГОДНИЕ §cСКИДКИ! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §630%'
+- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lFIXMINE.RU'
+- '§9§lDISCORD &fСЕРВЕРА §7► §d§lDISCORD.FIXMINE.RU'
 HOLOGRAM_LEVEL_TOP_LINES:
 - '&8« &bТоп по уровням &8»'
 - '&fСамые прокаченные игроки'
@@ -665,8 +669,3 @@ HOLOGRAM_ONLINE_TOP_LINES:
 - '{time}'
 - '&7Нажмите здесь, чтобы сменить'
 - '{item:CLOCK}'
-
-BOSS_BAR_LOBBY:
-- '§fНОВОГОДНИЕ §cСКИДКИ! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §630%'
-- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lFIXMINE.RU'
-- '§9§lDISCORD &fСЕРВЕРА §7► §d§lDISCORD.FIXMINE.RU'
