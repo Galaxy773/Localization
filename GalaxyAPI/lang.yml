@@ -654,13 +654,13 @@ PRESENTS_FIND_ACTION_BAR: '&e+&6&l%s &eзолота &8| &e+&6&l%s &eопыта'
 PRESENTS_COMPLETE_TITLE: '&6&lПоздравляем!'
 PRESENTS_COMPLETE_SUBTITLE: '&fВы отыскали &aвсе &fновогодние подарки'
 HOLOGRAM_LEVEL_TOP_LINES:
-- '&8« &bТоп по уровням &8»
+- '&8« &bТоп по уровням &8»'
 - '&fСамые прокаченные игроки'
 - '{time}'
 - '&7Нажмите здесь, чтобы сменить'
 - '{item:EXP_BOTTLE}'
 HOLOGRAM_ONLINE_TOP_LINES:
-- '&8« &6Топ по онлайну &8»
+- '&8« &6Топ по онлайну &8»'
 - '&fСамые активные игроки'
 - '{time}'
 - '&7Нажмите здесь, чтобы сменить'
