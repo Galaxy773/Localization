@@ -677,13 +677,13 @@ HOLOGRAM_ONLINE_TOP_LINES:
 PARKOUR_START_HOLOGRAM_LINES:
 - '§d§lПАРКУР §8| §a§lНачало'
 - 'Награда:'
-- '§6§l500 §fзолота §8| §e500 §fопыта'
+- '    §6§l500 §fзолота §8| §e500 §fопыта'
 - '{item:COMPASS}'
 PARKOUR_END_HOLOGRAM_LINES:
 - '§d§lПАРКУР §8| §c§lКонец'
 - '{item:DIAMOND}'
 PARKOUR_CHECKPOINT_HOLOGRAM_LINES:
-- '§d§lПАРКУР §8| §e§lТочка #%s'
+- '§d§lПАРКУР §8| §f§lТочка §e§l#%s'
 - '{item:347}'
 PARKOUR_HOLO_TOP_HEADER: '§e§lТоп паркуристов'
 PARKOUR_ACTION_BAR: '§e§lПАРКУР §7↠ §fЛучшее время: §a%s §8| §fТекущее: §a%s'
