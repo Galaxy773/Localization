@@ -686,7 +686,7 @@ PARKOUR_CHECKPOINT_HOLOGRAM_LINES:
 - '§d§lПАРКУР §8| §f§lТочка §e§l#%s'
 - '{item:347}'
 PARKOUR_HOLO_TOP_HEADER: '§e§lТоп паркуристов'
-PARKOUR_ACTION_BAR: '§e§lПАРКУР §7↠ §fЛучшее время: §a%s §8| §fТекущее: §a%s    '
+PARKOUR_ACTION_BAR: '§e§lПАРКУР §7↠ §fЛучшее время: §a%s §8| §fТекущее: §a%s'
 PARKOUR_BACK_ITEM_NAME: '§6§lВернуться на последнюю точку §7(ПКМ)'
 PARKOUR_BACK_ITEM_LORE:
 - ''
