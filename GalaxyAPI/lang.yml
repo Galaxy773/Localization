@@ -674,3 +674,30 @@ HOLOGRAM_ONLINE_TOP_LINES:
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
 - '{item:347}'
+PARKOUR_START_HOLOGRAM_LINES:
+- '&d&lПАРКУР &8| &a&lНачало'
+- 'Награда:'
+- '&6&l500 &fзолота &8| &e500 &fопыта'
+- '{item:COMPASS}'
+PARKOUR_END_HOLOGRAM_LINES:
+- '&d&lПАРКУР &8| &c&lКонец'
+- '{item:DIAMOND}'
+PARKOUR_CHECKPOINT_HOLOGRAM_LINES:
+- '&d&lПАРКУР &8| &e&lТочка #%s'
+- '{item:347}'
+PARKOUR_HOLO_TOP_HEADER: '&e&lТоп паркуристов'
+PARKOUR_ACTION_BAR: '&e&lПАРКУР &7↠ &fЛучшее время: &a%s &8| &fТекущее: &a%s'
+PARKOUR_BACK_ITEM_NAME: '&6&lВернуться на последнюю точку &7(ПКМ)'
+PARKOUR_BACK_ITEM_LORE:
+- ''
+- '&7Нажмите, чтобы вернуться на последнюю точку'
+PARKOUR_CANCEL_ITEM_NAME: '&c&lЗавершить паркур &7(ПКМ)'
+PARKOUR_CANCEL_ITEM_LORE:
+- ''
+- '&7Нажмите, чтобы досрочно завершить паркур'
+PARKOUR_FORCED_CANCEL: '&6&lПаркур &8| &fВы досрочно &cзавершили &fпрохождение паркура'
+PARKOUR_START: '&6&lПаркур &8| &fВы &aначали &fпрохождение паркура'
+PARKOUR_CANCEL_USE: '&6&lПаркур &8| &fЕсли хотите &cзавершить &fпрохождение паркура, &eиспользуйте предмет &fв последнем слоте'
+PARKOUR_END: '&6&lПаркур &8| &a&lПоздравляем! &fВы успешно прошли паркур, ваша награда: &6&l%s &6золота, &e&l%s&6exp'
+PARKOUR_PREVIOUS_CHECKPOINT: '&6&lПаркур &8| &fВы не должны пропускать &cточки сохранения&f, вернитесь &cназад &fи отметьте все пропущенные точки'
+PARKOUR_CHECKPOINT: '&6&lПаркур &8| &fДостигнута &aточка &fсохранения &7[&e%s&8/&a%s&7]'
