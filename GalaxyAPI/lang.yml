@@ -757,7 +757,7 @@ BOXES_DONATE_LORE:
 - §8  ▪ §4§lХРОНОС
 - §8  ▪ §d§l§nИМПЕРАТОР
 - ''
-- §a▸ §a§lПокупка §7на сайте §e§lwww.FixMine.ru
+- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
 BOXES_COINS_NAME: '§6§lКейс с крышками'
 BOXES_COINS_LORE:
 - ''
@@ -781,8 +781,8 @@ BOXES_COINS_LORE:
 - '§8  ▪ §6200 §fкрышек'
 - '§8  ▪ §6250 §fкрышек'
 - ''
-- '§a▸ §a§lПокупка §7на сайте §e§lwww.FixMine.ru'
-BOXES_GOLD_NAME: '§e§lКейс с золотом'
+- '§a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru'
+BOXES_GOLD_NAME: '§b§lКейс с золотом'
 BOXES_GOLD_LORE:
 - ''
 - ' §7Испытайте свою удачу'
