@@ -632,7 +632,7 @@ LOBBY_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
 LOBBY_JOIN_TITLE: '§8» §6§lFixMine §8«'
 LOBBY_JOIN_SUBTITLE: '§d§lВесеннее обновление!'
 
-PROFILE_ITEM_NAME: '§6§lПрофиль %s'
+PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
 PROFILE_ITEM_LORE:
 - ''
 - '§7Нажмите ПКМ, чтобы посмотреть ваш профиль'
