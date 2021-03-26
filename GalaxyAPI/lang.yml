@@ -347,14 +347,13 @@ PREFIX_SELECTED_GUI_ITEM_LORE:
 - ' §8▪ §fПрефикс: %s§lХРОНОС'
 - ' §8▪ §fСтатус: §aвыбран'
 - ''
-PREFIX_ACCESS_GUI_ITEM_LORE: '%s'
-
+PREFIX_ACCESS_GUI_ITEM_LORE:
 - ''
 - ' §8▪ §fПрефикс: %s§lХРОНОС'
 - ' §8▪ §fСтатус: §eдоступен'
 - ''
 - '§a▸ §a§lНажмите§7, чтобы установить'
-PREFIX_DENY_GUI_ITEM_LORE: '%s'
+PREFIX_DENY_GUI_ITEM_LORE:
 - ''
 - ' §8▪ §fПрефикс: %s§lХРОНОС'
 - ' §8▪ §fСтатус: §cне доступен'
