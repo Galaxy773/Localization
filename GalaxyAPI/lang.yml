@@ -667,8 +667,8 @@ SURVIVAL_MENU_ITEM_LORE:
 - ' §7Данное меню поможет вам'
 - ' §7ознакомиться с режимом'
 
-SURVIVAL_JOIN_TITLE: '§8» §6§lFixMine §8«'
-SURVIVAL_JOIN_SUBTITLE: '§e§lВЫЖИВАНИЕ'
+SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
 - '§8§l« §a§lТоп по убийствам §8§l»'
