@@ -687,7 +687,24 @@ HOLOGRAM_MONEY_TOP_LINES:
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
 - '{item:DOUBLE_PLANT}'
-
+JOBS_MINER_NOT_ORE: '§6§lРабота §8| §fВы можете добывать только §cруду'
+JOBS_GAMEMODE: '§6§lРабота §8| §fВы должны находиться в режиме §cвыживания'
+JOBS_MINER_EARNED: '§6§lРабота §8| §fВы добыли руду и получили §e%s⛂§f." + " Получите деньги у шахтера §7(ПКМ)'
+JOBS_MINER_NO_ORE: '§6§lРабота §8| §fУ вас §cнет руды§f для сдачи'
+JOBS_MINER_CANCEL: '§6§lРабота §8| §fВы сдали руду и получили §e%s§6⛂§f'
+JOBS_WOODCUTTER_NO_WOODS: '§6Работа §8| §fУ вас §cнет деревьев§f для сдачи'
+JOBS_WOODCUTTER_CANCEL: '§6Работа §8| §fВы сдали деревья и получили §e%s§6⛂'
+JOBS_WOODCUTTER_NOT_WOOD: '§6Работа §8| §fВы можете рубить только §cдерево'
+JOBS_WOODCUTTER_BREAK_WOOD: '§6Работа §8| §fВы получили §e%2$s⛂§f. Осталось сломать §e%1$s блоков §fчтобы срубить дерево целиком'
+JOBS_WOODCUTTER_BREAK_TREE: '§6Работа §8| §fВы срубили дерево и получили §e%s⛂§f. §aПолучите §fденьги у лесоруба §7(ПКМ)'
+JOBS_BOARD_MINER_LINE: '  Работа §e§lшахтера'
+JOBS_BOARD_WOOCUTTER_LINE: '  Работа §e§lлесоруба'
+JOBS_BOARD_SALARY_LINE: '   Зарплата: §a'
+JOBS_BOARD_MINED_LINE: '   Добыто: §e'
+JOBS_BOARD_BOOSTER_LINE: '   Бустер: §c'
+JOBS_BOARD_COMBO_LINE: '   Комбо: §d'
+MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
+WOODCUTTER_TOP_HEADER: '§6§lТОП ЛЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
 LOBBY_BOARD_DATE_LINE: '    §7'
@@ -827,6 +844,7 @@ BOXES_DONATE_LORE:
 - §8  ▪ §9§lДРАГОН
 - §8  ▪ §d§lАРЕС
 - §8  ▪ §4§lХРОНОС
+- §8  ▪ §d§l§nИМПЕРАТОР
 - ''
 - §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
 BOXES_COINS_NAME: '§6§lКейс с крышками'
