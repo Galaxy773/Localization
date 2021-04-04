@@ -704,6 +704,7 @@ JOBS_BOARD_SALARY_LINE: '   Зарплата: §a'
 JOBS_BOARD_MINED_LINE: '   Добыто: §e'
 JOBS_BOARD_BOOSTER_LINE: '   Бустер: §c'
 JOBS_BOARD_COMBO_LINE: '   Комбо: §d'
+JOBS_BOARD_STATS_LINE: ' §e§lСтатистика'
 MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§6§lТОП ЛЕСОРУБОВ'
 #LOBBY
