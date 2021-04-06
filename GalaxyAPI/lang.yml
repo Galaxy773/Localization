@@ -1030,7 +1030,7 @@ HOME_TO: §6§lСервер §8| §fВы телепортировались на
 DELHOME_FORMAT: §6§lСервер §8| §fУкажите §cназвание дома §f- §a/delhome [дом]
 HOME_REMOVE: §6§lСервер §8| §fВы удалили точку дома §a%s
 HOME_NOT_FOUND: §6§lСервер §8| §fТочка дома §c%s §fне найдена
-SETHOME_FORMAT: §6§lСервер §8| §fУкажите §cназвание дома §f- §a/sethome [дом]
+SETHOME_FORMAT_NO_ARGS: §6§lСервер §8| §fУкажите §cназвание дома §f- §a/sethome [дом]
 HOME_ERROR: §6§lСервер §8| §fУ вас уже §cустановлена §fточка дома §c%s
 HOME_CREATE: §6§lСервер §8| §fВы §aустановили §fточку дома §a%s
 ITEMDB_ERROR: §6§lСервер §8| §fВозьмите §cпредмет §fв руку
