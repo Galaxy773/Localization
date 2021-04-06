@@ -1295,7 +1295,8 @@ PROFILE_BACK_ITEM_LORE2:
 - §7Нажмите, чтобы вернуться на шаг назад
 ALTERNATE_GUI_NAME: Меню
 WARP_GUI_NAME: Список варпов
-PLAYER_WARP_GUI_NAME: Список варпов
+PLAYER_WARP_GUI_NAME: Игроки
+SYSTEM_WARP_GUI_NAME: Сервер
 CALL_GUI_NAME: Запросы на тп
 HOME_GUI_NAME: Точки дома
 KIT_GUI_NAME: Выбор набора
