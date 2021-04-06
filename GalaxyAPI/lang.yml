@@ -1111,6 +1111,15 @@ WARP_ITEM_LORE:
 - ' §7Z: §c%s'
 - ''
 - §e▸ Нажмите, чтобы телепортироваться
+SYSTEM_WARP_ITEM_LORE:
+- ''
+- '§7Координаты варпа:'
+- ' §7Мир: §c%s'
+- ' §7X: §c%s'
+- ' §7Y: §c%s'
+- ' §7Z: §c%s'
+- ''
+- §e▸ Нажмите, чтобы телепортироваться
 MYWARP_ITEM_LORE_PRIVATE:
 - ''
 - §7В данный момент этот варп
@@ -1286,6 +1295,7 @@ PROFILE_BACK_ITEM_LORE2:
 - §7Нажмите, чтобы вернуться на шаг назад
 ALTERNATE_GUI_NAME: Меню
 WARP_GUI_NAME: Список варпов
+PLAYER_WARP_GUI_NAME: Список варпов
 CALL_GUI_NAME: Запросы на тп
 HOME_GUI_NAME: Точки дома
 KIT_GUI_NAME: Выбор набора
