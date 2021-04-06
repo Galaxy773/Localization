@@ -1293,10 +1293,10 @@ PTIME_ITEM_LORE:
 - §7Только для %s §7и выше
 - ''
 - §e▸ Нажмите, чтобы открыть меню
-PROFILE_BACK_ITEM_NAME: §cВернуться назад
+PROFILE_BACK_ITEM_NAME: §c← §c§lНажмите§f, чтобы вернуться назад
 PROFILE_BACK_ITEM_LORE2:
 - ''
-- §7Нажмите, чтобы вернуться на шаг назад
+-  §8▪ §fВернуться в предыдущее меню
 ALTERNATE_GUI_NAME: Меню
 WARP_GUI_NAME: Список варпов
 PLAYER_WARP_GUI_NAME: Игроки
