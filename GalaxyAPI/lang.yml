@@ -1,4 +1,4 @@
-#11111
+
 PROFILE_MAIN_GUI_NAME: '§8Профиль (%s)'
 SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 REWARD_GUI_NAME: '§8Профиль ▸ Награды'
@@ -1301,3 +1301,4 @@ CALL_GUI_NAME: Запросы на тп
 HOME_GUI_NAME: Точки дома
 KIT_GUI_NAME: Выбор набора
 PLAYER_NOT_ONLINE: §6§lСервер §8| §fИгрок §c%s §fне онлайн
+S_FORMAT_NO_ARGS: '§6§lСервер §8| §f/s <ник игрока>'
