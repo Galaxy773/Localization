@@ -1262,7 +1262,7 @@ PROFILE_BACK_ITEM_NAME: §c← §c§lНажмите§f, чтобы вернут�
 PROFILE_BACK_ITEM_LORE2:
 - ''
 -  §8▪ §fВернуться в предыдущее меню
-ALTERNATE_GUI_NAME: Варпы
+ALTERNATE_GUI_NAME: Меню
 WARP_GUI_NAME: Список варпов
 PLAYER_WARP_GUI_NAME: Игроки
 SYSTEM_WARP_GUI_NAME: Сервер
