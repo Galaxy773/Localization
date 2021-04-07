@@ -1315,3 +1315,19 @@ MYWARP_GUI_ITEM_LORE:
 - ' §6↪ §fВарпов: §e%s§8/§a%s'
 - ''  
 - '§a▸ §a§lНажмите§f, для просмотра'
+MYWARP_GUI_NAME: Ваши
+KIT_CONTENT_GUI_NAME: '%s'
+KIT_GET_ITEM_NAME: '§6§lПолучить набор'
+KIT_GET_ITEM_COOLDOWN_LORE:
+- ''
+- ' §8▪ §fСтатус: §cнедоступен'
+- ' §8▪ §fБудет доступен через: §e%s'
+KIT_GET_ENABLE_LORE:
+- ''
+- ' §8▪ §fСтатус: §aдоступен'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы посмотреть получить набор'
+KIT_GET_DISABLE_LORE:
+- ''
+- ' §8▪ §fСтатус: §cнедоступен'
+- ' §8▪ §fДоступен для: %s'
