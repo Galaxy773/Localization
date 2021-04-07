@@ -1324,8 +1324,8 @@ MYWARP_GUI_ITEM_LORE:
 - '§a▸ §a§lНажмите§f, для просмотра'
 MYWARP_GUI_NAME: Ваши
 KIT_CONTENT_GUI_NAME: '%s §8'
-KIT_GET_ITEM_NAME: '§6§lПолучить набор'
-KIT_GET_ITEM_COOLDOWN_LORE:
+KIT_GET_NAME: '§6§lПолучить набор'
+KIT_GET_COOLDOWN_LORE:
 - ''
 - ' §8▪ §fСтатус: §cнедоступен'
 - ' §8▪ §fБудет доступен через: §e%s'
