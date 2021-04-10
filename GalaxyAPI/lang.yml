@@ -1532,3 +1532,10 @@ AUCTION_LORE_ITEM:
 - ''
 - §e▸ ЛКМ, чтобы купить
 - §e▸ ПКМ, чтобы открыть все товары продавца
+#PRIVATE MESSAGES
+COMMAND_MSG_FORMAT: '§6§lСообщения §8| §fИспользование: §a/msg [ник] [сообщение]'
+COMMAND_REPLY_FORMAT: '§6§lСообщения §8| §fИспользование: §a/r [сообщение]'
+PRIVATE_MESSAGES_IS_DISABLED: '§6§lСообщения §8| §fУ вас §cвыключены §fприватные сообщения, включите их в настройках: §a/settings'
+PLAYER_IS_DISABLED_PRIVATE_MESSAGES: '§6§lСообщения §8| §fУ игрока §e%s §cвыключены §fприватные сообщения'
+PRIVATE_MESSAGE_FORMAT_TARGET: '%1$s §8→ §aВы§7: %3$s'
+PRIVATE_MESSAGE_FORMAT_SENDER: '§aВы §8→ %1$s§7: %3$s'
