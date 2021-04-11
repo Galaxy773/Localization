@@ -1541,3 +1541,7 @@ PRIVATE_MESSAGE_FORMAT_TARGET: '§8[§6ʟᴄ§8] %1$s §8→ §aВы§8: §7%3$s
 PRIVATE_MESSAGE_FORMAT_SENDER: '§8[§6ʟᴄ§8] §aВы §8→ %1$s§8: §7%3$s'
 NO_PLAYERS_TO_REPLY: '§6§lСообщения §8| §fУ вас §cнет §fсообщений требующих ответа'
 PRIVATE_MESSAGES_PLAYERS_SAME: '§6§lСообщения §8| §fВы §cне можете §fнаписать самому себе'
+RTP_TELEPORT: '§6§lРТП §8| §fВы были телепортированы на координаты §a%2$s§f, §a%3$s§f, §a%4$s'
+RTP_PVP_TELEPORT: '§6§lРТП §8| §fВы были телепортированы, игроков поблизости: §a%5$s'
+RTP_PVP_TELEPORT_ERROR: '§6§lРТП §8| §cОшибка§f телепортации, попробуйте снова'
+RTP_PVP_NO_PERMISSIONS: '§6§lРТП §8| §fКоманда доступна от привилегии %s'
