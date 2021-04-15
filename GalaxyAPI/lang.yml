@@ -1561,8 +1561,8 @@ PTIME_ITEM_WATCH_LORE:
 - §7Только для %s§7и выше
 - ''
 - §e▸ Нажмите, чтобы сменить
-PTIME_ITEM_WEATHER_NAME: §aСменить погоду
-PTIME_ITEM_WEATHER_LORE:
+PWEATHER_ITEM_WATCH_NAME: §aСменить погоду
+PWEATHER_ITEM_WATCH_LORE:
 - ''
 - §7Сменить вашу личную
 - §7погоду на §a%s- ''
@@ -1590,8 +1590,8 @@ TIME_ITEM_WATCH_LORE:
 - §7Только для %s§7и выше
 - ''
 - §e▸ Нажмите, чтобы сменить
-TIME_ITEM_WEATHER_NAME: §aСменить погоду
-TIME_ITEM_WEATHER_LORE:
+WEATHER_ITEM_WATCH_NAME: §aСменить погоду
+WEATHER_ITEM_WATCH_LORE:
 - ''
 - §7Сменить погоду в вашем
 - §7мире на §a%s
