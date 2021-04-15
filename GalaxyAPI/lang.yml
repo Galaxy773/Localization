@@ -1500,7 +1500,7 @@ NO_PLAYERS_TO_REPLY: '§6§lСообщения §8| §fУ вас §cнет §fс
 PRIVATE_MESSAGES_PLAYERS_SAME: '§6§lСообщения §8| §fВы §cне можете §fнаписать самому себе'
 RTP_TELEPORT: '§6§lРТП §8| §fВы были телепортированы на координаты §a%2$s§f, §a%3$s§f, §a%4$s'
 RTP_PVP_TELEPORT: '§6§lРТП §8| §fВы были телепортированы, игроков поблизости: §a%5$s'
-RTP_PVP_TELEPORT_ERROR: '§6§lРТП §8| §cОшибка§f телепортации, попробуйте снова'
+RTP_PVP_TELEPORT_ERROR: '§6§lРТП §8| §fОшибка §cтелепортации§f, попробуйте снова'
 RTP_PVP_NO_PERMISSIONS: '§6§lРТП §8| §fКоманда доступна от привилегии %s'
 COMMAND_IGNORE_HELP: 
 - '§6§lСообщения §8| §fДобавить игрока в игнор-лист: §a/ignore add [ник]'
