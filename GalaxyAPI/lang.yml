@@ -1617,4 +1617,4 @@ DEPTH_SEA: '§6§lСервер §8| §fВы на §aодном уровне §f�
 TIME_GUI_NAME: Смена времени в мире
 WEATHER_GUI_NAME: Смена погоды в мире
 COMMAND_FIREWORK: '§6§lСервер §8| §fВы запустили §aфейерверк'
-DONATE_CHAT_FORMAT: '§7[§2§lDC§7] %%prefix %%player §8→ §f%%message'
+DONATE_CHAT_FORMAT: '§7[§2§lDC§7] {prefix} {player} §8→ §f{message}'
