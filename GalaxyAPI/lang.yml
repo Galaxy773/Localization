@@ -611,7 +611,7 @@ SOUL_IS_BUYED_LORE:
 - '§a▸ §a§lНажмите§7, чтобы установить'
 SOUL_IS_SELECTED: '§6§lДухи §8| §fУ вас уже §aустановлен §fданный дух'
 SOUL_RIGHT_NO_PERMISSIONS: '§6§lДухи §8| §fУстановка двух духов одновременно §cдоступна §fот привилегии %s'
-NO_PERMISSIONS: '§6§lFixMine §8| §fВам §cнедоступна §fданная возможность'
+NO_PERMISSIONS: '§6§lFixMine §8| §fДанная возможность §cдоступна §fот привилегии %s'
 SOUL_SELECT: '§6§lДухи §8| §fВы §aустановили §fдуха %s §fкак §e%s'
 BUY_SOUL: '§6§lДухи §8| §fВы §aкупили §fдуха %s'
 SOUL_LEVEL_1_NAME: '§cБронзовый'
