@@ -2426,3 +2426,28 @@ ISLAND_ACHIEVEMENT_CHICKEN_LORE:
 - '§8 • §7Куриц §fх2'
 ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Свиней §fх2'
+ACHIEVEMENT_DONE: '§eВыполнено'
+ACHIEVEMENT_NO_DONE: '§cНе выполнено'
+ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
+ISLAND_ACHIEVEMENT_NAME: 'Достижения'
+ISLAND_ACHIEVEMENT_LORE:
+- '§7Список всех достижений'
+- '§7на этом режиме'
+- ' '
+- '§7Выполнено: §f%s§7/§c%s'
+- ' '
+- ' §e▸ Нажмите, чтобы открыть список'
+ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения'
+ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
+ISLAND_GENERATOR_UPGRADE_LEVEL:
+- '§7Текущий уровень генератора: §a%s'
+- '§7Максимальный уровень генератора: §c%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
+- ''
+- '§7Цена: §ax%s изумурудных блоков'
+- ''
+- ' §e▸ Нажмите, чтобы купить'
