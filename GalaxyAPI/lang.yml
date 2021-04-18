@@ -1618,3 +1618,5 @@ TIME_GUI_NAME: Смена времени в мире
 WEATHER_GUI_NAME: Смена погоды в мире
 COMMAND_FIREWORK: '§6§lСервер §8| §fВы запустили §aфейерверк'
 DONATE_CHAT_FORMAT: '§8[§2ДонатЧат§8] {prefix}{player} §8→ §f{message}'
+PLAYER_AFK: '§6§lСервер §8| §fИгрок §c%s §fотошел и может не отвечать'
+PLAYER_CANCEL_AFK: '§6§lСервер §8| §fИгрок §a%s §fвернулся'
