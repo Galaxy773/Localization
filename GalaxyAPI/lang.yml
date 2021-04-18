@@ -2318,3 +2318,111 @@ ISLAND_HELP_LORE:
 - §7/is home §f- телепортироваться домой
 - §7/is addmoney <количество> §f- добавить монет на баланс острова
 - §7/is destroy §f- удалить остров
+ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r'
+INVENTORY_IS_FULL: '§cОшибка, ваш инвентарь заполнен'
+ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
+ISLAND_ACHIEVEMENT_START_LORE:
+- '§7Создать остров 1-й раз'
+ISLAND_ACHIEVEMENT_RESTART_NAME: 'Пересоздать'
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- '§7Пересоздать свой остров'
+ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтить предметы'
+ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE:
+- '§8 • §7Стена из булыжника §fх24'
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- '§8 • §7Факела §fх30'
+ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE:
+- '§8 • §7Каменных кирпичей §fх64'
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- '§8 • §7Стоек для брони §fх10'
+ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
+- '§8 • §7Дубовых ступенек §fх20'
+ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
+- '§8 • §7Деревянных плит §fх20'
+ISLAND_ACHIEVEMENT_SIGN_LORE:
+- '§8 • §7Табличек §fх10'
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- '§8 • §7Рычагов §fх10'
+ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE:
+- '§8 • §7Деревянных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_STONE_PLATE_LORE:
+- '§8 • §7Каменных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE:
+- '§8 • §7Деревянных кнопок §fх10'
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- '§8 • §7Каменных кнопок §fх10'
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- '§8 • §7Ферментированных глаз пауков §fх10'
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- '§8 • §7Картины §fх10'
+ISLAND_ACHIEVEMENT_CARROT_STICK_LORE:
+- '§8 • §7Удочку с морковью §fх1'
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- '§8 • §7Хлеба §fх10'
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- '§8 • §7Блоков сена §fх30'
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE:
+- '§8 • §7Редстоун ламп §fх10'
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- '§8 • §7Тыквенных пирогов §fх8'
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- '§8 • §7Свекольных супов §fх10'
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- '§8 • §7Блоков из красного кирпича §fх64'
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- '§8 • §7Лазуритных блоков §fх64'
+ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE:
+- '§8 • §7Цемента §fх8'
+ISLAND_ACHIEVEMENT_DIODE_LORE:
+- '§8 • §7Повторителей §fх32'
+ISLAND_ACHIEVEMENT_PISTON_BASE_LORE:
+- '§8 • §7Поршней §fх10'
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- '§8 • §7Компасов §fх5'
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- '§8 • §7TNT §fх10'
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- '§8 • §7Кварцевых блоков §fх64'
+ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE:
+- '§8 • §7Компараторов §fх24'
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- '§8 • §7Маяк §fх1'
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- '§8 • §7Слаймовый блок §fх1'
+ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
+- '§8 • §7Пустых карт §fх10'
+ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
+- '§8 • §7Стол зачарования §fх1'
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- '§8 • §7Книжных полок §fх32'
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- '§8 • §7Костяных блоков §fх20'
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- '§8 • §7Печь §fх1'
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- '§8 • §7Золотое яблоко §fх1'
+ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки'
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- '§8 • §7Обсидиан §fх32'
+ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавить'
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- '§8 • §7Стекло §fх32'
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- '§8 • §7Золотых слитков §fх64'
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- '§8 • §7Железных слитков §fх64'
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- '§8 • §7Картошки §fх32'
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Создать генератор'
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- '§7Постройте генератор булыжника'
+- '§7и добудьте булыжник'
+ISLAND_ACHIEVEMENT_BREED_NAME: 'Размножьте'
+ISLAND_ACHIEVEMENT_COW_LORE:
+- '§8 • §7Коров §fх2'
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- '§8 • §7Овец §fх2'
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- '§8 • §7Куриц §fх2'
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- '§8 • §7Свиней §fх2'
