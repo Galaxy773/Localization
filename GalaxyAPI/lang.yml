@@ -1509,7 +1509,7 @@ KIT_GET_DISABLE_ONLY_LORE:
 ABSENT: Отсутствует
 SELL_NO_PERMS: §6§lАукцион §8| §fПродажа предметов доступна от привилегии %s
 AUCTION_ANOTHER_LOCATION: §6§lАукцион §8| §fИспользование аукциона не на §c/warp ah
-  §fдоступно от привилегии %s'
+  §fдоступно от привилегии %s
 SHOP_ANOTHER_LOCATION: §6§lАукцион §8| §fИспользование магазина не на §c/warp ah §fдоступно
   от привилегии %s'
 AUCTION_SHOW_FORMAT: §a/ah show [ник]
