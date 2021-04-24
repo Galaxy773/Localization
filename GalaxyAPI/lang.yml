@@ -647,6 +647,10 @@ SKIN_CLEAR: '§6§lСкины §8| §fВы успешно §cочистили с
 SKIN_NAME_NOT_CORRECTED: '§6§lСкины §8| §cНеккоректный ник§f, минимальная длина ника - §a3§f, максимальная - §a16'
 SKIN_CHANGE_ERROR: '§6§lСкины §8| §cОшибка §fполучения данных о скине §e%s§f, попробуйте позже'
 SKIN_CHANGE: '§6§lСкины §8| §fВы успешно сменили скин на §a%s'
+#ONEBLOCK
+ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
+ONEBLOCK_BOARD_ISLAND_LINE: '   Ваш остров'
+ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: ' Достижения: '
 #SURVIVAL
 SURVIVAL_BOARD_NAME: ' §6§lFixMine §8» §e§lВыживание '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
@@ -1744,18 +1748,6 @@ USING_ANOTHER_PORTAL: §6§lСервер §8| §fВы не можете испо
 WORLD_NOT_LOADED: §6§lСервер §8| §fЭндер-мир не загружен, сообщите администратору
 DRAGON_KILL: §6§lСервер §8| §6§lПоздравляем§f! §fВы убили дракона эндер-края и получили
   §e%s §fмонет
-BOARD_ON_ISLAND: Создатель
-BOARD_ISLAND_YOU: Ваш остров
-BOARD_ONLINE: Онлайн
-BOARD_COINS: Крышек
-BOARD_BALANCE: Баланс
-BOARD_ACHIEVEMENT: Достижения
-BOARD_OWNER: Владелец
-BOARD_RANK_YOU: Ваш ранг
-BOARD_BALANCE_ISLAND: Баланс острова
-BOARD_OPEN_TERRITORY_ISLAND: Открыто территории
-BOARD_BLOCKS_BREAKED_ISLAND: Сломано блоков
-BOARD_PHASE_ISLAND: Фаза острова
 CANCEL_NAME: §cОтменить
 CONFIRMED_NAME: Подтвердить
 ANSWER_YES: Да
