@@ -649,7 +649,7 @@ SKIN_CHANGE_ERROR: '§6§lСкины §8| §cОшибка §fполучения 
 SKIN_CHANGE: '§6§lСкины §8| §fВы успешно сменили скин на §a%s'
 #ONEBLOCK
 ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
-ONEBLOCK_BOARD_ISLAND_LINE: '   Ваш остров: §d'
+ONEBLOCK_BOARD_ISLAND_LINE: '   Ваш остров: '
 ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
 #SURVIVAL
 SURVIVAL_BOARD_NAME: ' §6§lFixMine §8» §e§lВыживание '
