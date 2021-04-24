@@ -651,6 +651,99 @@ SKIN_CHANGE: '§6§lСкины §8| §fВы успешно сменили ски
 ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
 ONEBLOCK_BOARD_ISLAND_LINE: '   Ваш остров: '
 ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
+
+SHOP_SELL_NO_ITEMS: §6§lМагазин §8| §fУ вас §cнет §fнеобходимых предметов
+SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
+SHOP_FORMAT_NO_ARGS: /shop <название магазина>
+NO_PERMS_GROUP: §6§lМагазин §8| §fДанная возможность доступна от привилегии %s
+PROFILE_BACK_ITEM_NAME: §cВернуться назад
+PROFILE_BACK_ITEM_LORE2:
+- ''
+- §7Нажмите, чтобы вернуться на шаг назад
+SHOP_LORE_ITEM:
+- ''
+- '§7Цена покупки: §a%s'
+- '§7Получите после продажи: §c%s'
+- ''
+- §7Нажмите на §fколесико мыши,
+- §7чтобы продать все %s
+- ''
+- §e▸ ЛКМ, чтобы открыть меню покупок
+- §e▸ ПКМ, чтобы открыть меню продаж
+SHOP_LORE_CLICK_ITEM:
+- ''
+- '§7Цена покупки: §a%s'
+- ''
+- §e▸ Нажмите, чтобы купить
+SHOP_LORE_FIXED_ITEM:
+- ''
+- '§7Цена покупки: §a%s'
+- '§7Получите после продажи: §c%s'
+- ''
+- §7Нажмите на §fколесико мыши,
+- §7чтобы продать все %s
+- ''
+- §e▸ ЛКМ, чтобы купить
+- §e▸ ПКМ, чтобы продать
+SHOP_LORE_FIXED_ITEM_BUY:
+- ''
+- '§7Цена покупки: §a%s'
+- ''
+- §e▸ Нажмите, чтобы купить
+SHOP_LORE_FIXED_ITEM_SELL:
+- ''
+- '§7Получите после продажи: §a%s'
+- ''
+- §7Нажмите на §fколесико мыши,
+- §7чтобы продать все %s
+- ''
+- §e▸ Нажмите, чтобы продать
+SHOP_GUIBUY_NAME: Покупка %s
+SHOP_GUISELL_NAME: Продажа %s
+SHOP_ITEMBUY_LORE:
+- ''
+- §7Цена покупки §c%s
+SHOP_ITEM_NO_MONEY:
+- ''
+- §cОшибка, у вас недостаточно средств
+SHOP_ITEM_NO_ITEMS:
+- ''
+- §cОшибка, у вас недостаточно предметов
+SHOP_ITEMSELL_LORE:
+- ''
+- §7Получите после продажи §a%s
+SHOP_NAME_REMOVE_1: §cУстановить 1
+SHOP_NAME_REMOVE_2: §cОтнять 10
+SHOP_NAME_REMOVE_3: §cОтнять 1
+SHOP_NAME_ADD_1: §aДобавить 1
+SHOP_NAME_ADD_2: §aДобавить 10
+SHOP_NAME_ADD_3: §aУстановить максимум
+SHOP_NAME_SELL_ALL: Продать все предметы
+SHOP_LORE_SELL_ALL:
+- ''
+- §7После продажи всех предметов
+- §7вы получите §c%s
+- ''
+- §e▸ Нажмите, чтобы продать
+SHOP_LORE_CHANGED:
+- ''
+- §7Сменить кол-во предметов
+- ''
+- §e▸ Нажмите, чтобы сменить
+CANCEL_NAME: §cОтменить
+CONFIRMED_NAME: Подтвердить
+SHOP_FORMAT: /shop <название магазина>
+SHOP_NAMES: '§6§lМагазин §8| §fДоступные магазины: '
+SHOP_NOT_FOUND: §cОшибка, магазин %s не найден
+SHOP_ALL_ITEMS_SELLED: §6§lМагазин §8| §fВы успешно продали §7%s §fx §7%s §fза §a%s$
+SHOP_ALL_ITEMS_BUY: §6§lМагазин §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$
+SKYBLOCK_SHOP_BLOCKS: Магазин блоков
+SKYBLOCK_SHOP_FARMING: Магазин фермерства
+SKYBLOCK_SHOP_RES: Магазин ценных ресурсов
+SKYBLOCK_SHOP_OTHER: Магазин разного
+SKYBLOCK_SHOP_LOOT: Магазин различных предметов
+SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
+
 #SURVIVAL
 SURVIVAL_BOARD_NAME: ' §6§lFixMine §8» §e§lВыживание '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
