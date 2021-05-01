@@ -440,7 +440,12 @@ ARROWS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Стрелы'
 CRITS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Криты'
 KILLS_EFFECTS_GUI_NAME: '§8Эффекты ▸ Убийства'
 SOULS_GUI_NAME: '§8Духи'
-
+CALL_HOVER_ACCEPT:
+- '§fНажмите сюда, чтобы §aпринять'
+- '§fзапрос от игрока %s'
+CALL_HOVER_IGNORE:
+- '§fНажмите сюда, чтобы §cотклонить'
+- '§fзапрос от игрока %s'
 EFFECT_FIREWORK_NAME: '§bФейерверк'
 EFFECT_WATER_NAME: '§9Вода'
 EFFECT_EXPLOSION_NAME: '§cВзрыв'
