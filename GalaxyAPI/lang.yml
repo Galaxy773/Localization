@@ -2734,5 +2734,5 @@ LOBBY_JOIN_MESSAGE:
 - '§d❃ §fКликни по компасу, чтобы узнать больше'
 - '§b❃ §fПосмотри свой профиль, нажми на голову'
 - ''
-- '[{"text":" \u0020 \u0020§b"},{"text": "[\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435]","clickEvent":{"action": "open_url","value": "https://vk.com/fixmine_ru"}},{"text": " §8- §9"},{"text": "[Discord]","clickEvent":{"action": "open_url","value": "https://discord.fixmine.ru"}}]'
+- '   §9[vk.com/fixmine_ru] §b[discord.fixmine.ru]'
 - '§8§m ----------------------------------------------'
