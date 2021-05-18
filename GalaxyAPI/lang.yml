@@ -43,7 +43,7 @@ LEVEL_GUI_ITEM_LORE:
 - ''
 - ' §c↪ §fДо следующего осталось §a§l%s §fопыта'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню наград'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню наград'
 
 SETTINGS_GUI_ITEM_NAME: '§6§lНастройки'
 SETTINGS_GUI_ITEM_LORE:
@@ -61,7 +61,7 @@ SETTINGS_GUI_ITEM_LORE:
 - '  §8▪ §fДонат-Чат: %s'
 - '  §8▪ §fВерхняя полоска: %s'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню настроек'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню настроек'
 
 DONATE_GUI_ITEM_NAME: '§6§lДонат-Услуги'
 DONATE_GUI_ITEM_LORE:
@@ -69,14 +69,14 @@ DONATE_GUI_ITEM_LORE:
 - ' §7Подробнее о донат услугах сервера'
 - ' §7и способах их покупки'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню донат-услуг'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню донат-услуг'
 
 INFORMATION_GUI_ITEM_NAME: '§6§lИнформация'
 INFORMATION_GUI_ITEM_LORE:
 - ''
 - ' §7Полезная информация для игры на сервере'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть информационное меню'
+- '§a▸ §a§lНажмите§7, чтобы окрыть информационное меню'
 
 TITULS_GUI_ITEM_NAME: '§6§lТитулы'
 TITULS_GUI_ITEM_LORE:
@@ -87,7 +87,7 @@ TITULS_GUI_ITEM_LORE:
 - ''
 - ' §a✔ §fРазблокировано титулов: §c§l%s§8/§a§l%s §e%s'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню титулов'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню титулов'
 
 EFFECTS_GUI_ITEM_NAME: '§6§lЭффекты'
 EFFECTS_GUI_ITEM_LORE:
@@ -95,7 +95,7 @@ EFFECTS_GUI_ITEM_LORE:
 - ' §7Устанавливайте различные §bкосметические'
 - ' §bулучшения §7на стрелы, убийства и другое'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню эффектов'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню эффектов'
 
 DONATE_MENU_GUI_ITEM_NAME: '§6§lМеню донатера'
 DONATE_MENU_GUI_ITEM_LORE:
@@ -107,7 +107,7 @@ DONATE_MENU_GUI_ITEM_LORE:
 - '  §8▪ §fСообщения при выходе'
 - '  §8▪ §fСмена префикса'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню донатера'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню донатера'
 
 SOULS_GUI_ITEM_NAME: '§6§lДухи'
 SOULS_GUI_ITEM_LORE:
@@ -116,7 +116,7 @@ SOULS_GUI_ITEM_LORE:
 - ' §7которые §bбудут летать §7возле вас'
 - ' §7и §bнакладывать §7на вас §bэффекты зелий'
 - ''
-- '§a{animation:cursor} §a§lНажмите§7, чтобы окрыть меню духов'
+- '§a▸ §a§lНажмите§7, чтобы окрыть меню духов'
 
 HIDER_GUI_ITEM_NAME: '§6§lСкрытие игроков'
 HIDER_GUI_ITEM_LORE:
