@@ -775,7 +775,7 @@ ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
 SHOP_SELL_NO_ITEMS: §6§lМагазин §8| §fУ вас §cнет §fнеобходимых предметов
 SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
-NO_PERMS_GROUP: §6§lМагазин §8| §fДанная возможность доступна от привилегии %s
+NO_PERMS_GROUP: §6§lFixMine §8| §fДанная возможность доступна от привилегии %s
 PROFILE_BACK_ITEM_NAME: §cВернуться назад
 PROFILE_BACK_ITEM_LORE2:
 - ''
