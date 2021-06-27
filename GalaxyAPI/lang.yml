@@ -1,3 +1,8 @@
+#BUNGEE
+MOTD: ''
+TAB_HEADER: ''
+TAB_FOOTER: ''
+#END_BUNGEE
 #AUTH
 AUTH_CHANGEPASSWORD_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/cp старый_пароль новый_пароль'
 AUTH_LICENSE_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/license on|off §7(включить|выключить)'
