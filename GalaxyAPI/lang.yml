@@ -1,7 +1,17 @@
 #BUNGEE
-MOTD: ''
-TAB_HEADER: ''
+MOTD: '     §6§l◄ §6§lＦｉｘ§f§lＭｉｎｅ §r§8» §fУлучшенные §e§lрежимы§f уже ждут тебя §6§l► {newline}§f              Глобальное §6§lобновление§f сервера'
+TAB_HEADER: 
+- '§6§lFix§f§lMine'
+- ''
+- '§fДонат услуги:'
+- '§ewww.fixmine.ru§f'
+- ''
 TAB_FOOTER: ''
+- ''
+- '§fОнлайн проекта: §a%s'
+- ''
+- '§fВы находитесь на режиме:'
+- '§d%s'
 #END_BUNGEE
 #AUTH
 AUTH_CHANGEPASSWORD_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/cp старый_пароль новый_пароль'
