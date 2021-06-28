@@ -6,7 +6,7 @@ TAB_HEADER:
 - '§fДонат услуги:'
 - '§ewww.fixmine.ru§f'
 - ''
-TAB_FOOTER: ''
+TAB_FOOTER:
 - ''
 - '§fОнлайн проекта: §a%s'
 - ''
