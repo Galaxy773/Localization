@@ -776,6 +776,8 @@ COMMAND_SKIN_FORMAT:
 SKIN_HAS_BEEN_RESET: '§6§lСкины §8| §fВы успешно §cочистили скин'
 SKIN_NAME_NOT_CORRECTED: '§6§lСкины §8| §cНеккоректный ник§f, минимальная длина ника - §a3§f, максимальная - §a16'
 SKIN_HAS_BEEN_UPDATED: '§6§lСкины §8| §fВы успешно сменили скин на §a%s'
+SKIN_REQUEST_EXCEPTION: '§6§lСкины §8| §fОшибка получения скина, попробуйте позже'
+SKIN_IS_DEFAULT: '§6§lСкины §8| §fВы пытаетесь установить стандартный скин, используйте §a/skin reset'
 #ONEBLOCK
 ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
 ONEBLOCK_BOARD_ISLAND_LINE: '   Фаза острова: §d'
