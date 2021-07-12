@@ -13,6 +13,7 @@ TAB_FOOTER:
 - '§fВы находитесь на режиме:'
 - '§d%s'
 #END_BUNGEE
+IGNORELIST_EMPTY: '§6§lСервер §8| §fВаш §cигнор-лист пуст'
 #AUTH
 AUTH_CHANGEPASSWORD_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/cp старый_пароль новый_пароль'
 AUTH_LICENSE_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/license on|off §7(включить|выключить)'
