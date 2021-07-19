@@ -18,7 +18,7 @@ IGNORE_GUI_NAME: '§8Игнор-Лист'
 IGNORE_ITEM_NAME: '%s'
 IGNORE_ITEM_LORE:
 - ''
-- ' §fУбрать из игнор-листа: §a/ignore remove'
+- '§a▸ §a§lНажмите§7, чтобы перестать игнорировать'
 IGNORE_FORMAT: 
 - '§6§lСервер §8| §fИгнорировать/не игнорировать: §a/ignore add|remove игрок'
 - '§6§lСервер §8| §fПосмотреть список игнорируемых: §a/ignorelist'
