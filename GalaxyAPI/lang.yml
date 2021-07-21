@@ -37,14 +37,14 @@ COMMAND_FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
 COMMAND_FRIENDS_DENY_FORMAT: /f deny <ник игрока>
 COMMAND_FRIENDS_TP_FORMAT: /f tp <ник друга>
 COMMAND_FRIENDS_HELP:
-- '§7/friends add <ник игрока> §f- добавить игрока в друзья'
-- '§7/friends remove <ник игрока> §f- удалить игрока из друзей'
-- '§7/friends accept <ник игрока> §f- принять запрос игрока в друзья'
-- '§7/friends deny <ник игрока> §f- отклонить запрос игрока в друзья'
+- '§7/friends add [ник] §f- добавить игрока в друзья'
+- '§7/friends remove [ник] §f- удалить игрока из друзей'
+- '§7/friends accept [ник] §f- принять запрос игрока в друзья'
+- '§7/friends deny [ник] §f- отклонить запрос игрока в друзья'
 - '§7/friends requests §f- список запросов в друзья'
 - '§7/friends list §f- список друзей'
-- '§7/friends tp <ник игрока> §f- телепортация на сервер друга'
-- '§7/friends party §f- отправить всем друзьям онлайн приглашение в Party'
+- '§7/friends tp [ник] §f- телепортация на сервер друга'
+FRIENDS_SERVERS_SAME: '§6§lДрузья §8| §fВы §cуже находитесь §fна этом сервере'
 FRIENDS_LIMIT: '§6§lДрузья §8| §fДостигнут лимит друзей для вашей группы: §c%s'
 FRIENDS_NO_REQUESTS: '§6§lДрузья §8| §fУ Вас §cнет запросов §fв друзья'
 FRIENDS_NO_FRIENDS: '§6§lДрузья §8| §fУ вас §cнет §fдрузей'
