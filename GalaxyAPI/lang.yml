@@ -90,9 +90,12 @@ IGNORE_ITEM_NAME: '%s'
 IGNORE_ITEM_LORE:
 - ''
 - '§a▸ §a§lНажмите§7, чтобы перестать игнорировать'
-IGNORE_FORMAT: 
-- '§6§lСервер §8| §fИгнорировать/не игнорировать: §a/ignore add|remove игрок'
-- '§6§lСервер §8| §fПосмотреть список игнорируемых: §a/ignorelist'
+COMMAND_IGNORE_ADD_FORMAT: '§6§lСервер §8| §fИспользование: §a/ignore add [ник]'
+COMMAND_IGNORE_REMOVE_FORMAT: '§6§lСервер §8| §fИспользование: §a/ignore remove [ник]'
+COMMAND_IGNORE_HELP: 
+- '§7/ignore add [ник] §f- добавить игрока в список игнорируемых'
+- '§7/ignore remove [ник] §f- удалить игрока из списка игнорируемых'
+- '§7/ignore list §f- открыть список игнорируемых'
 IGNORE_LIMIT: '§6§lСервер §8| §fДостигнут ваш §cлимит §fигнорируемых игроков: §e3'
 #AUTH
 AUTH_CHANGEPASSWORD_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/cp старый_пароль новый_пароль'
