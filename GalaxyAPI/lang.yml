@@ -1,3 +1,84 @@
+#CORE
+ERROR_WITH_YOUR_BUKKIT: '§cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер и попробуйте ввести команду снова'
+#CORE-FRIENDS
+FRIENDS_GUI_NAME: 'Список друзей'
+FRIEND_ITEM_INFO_NAME: '§6§lИнформация'
+FRIEND_ITEM_INFO_LORE:
+- ''
+- ' §8▪ §fВсего друзей: §e%s§8/§c%s'
+- ' §8▪ §fОнлайн друзей: §a%s'
+FRIEND_ITEM_NAME: '%s'
+FRIEND_ITEM_ONLINE_LORE:
+- ''
+- '§8▪ §fВ сети: §aонлайн'
+- '§8▪ §fСервер: §d%s'
+- '§8▪ §fУровень: §b%s'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы телепортироваться'
+FRIEND_ITEM_OFFLINE_LORE:
+- ''
+- '§8▪ §fСтатус: §cне онлайн'
+- '§8▪ §fБыл в сети: §c%s назад'
+- '§8▪ §fПоследний сервер: §d%s'
+- '§8▪ §fУровень: §b%s'
+FRIENDS_REQUESTS_GUI_NAME: 'Запросы в друзья'
+FRIEND_ITEM_REQUEST_INFO_NAME: '§6§lИнформация'
+FRIEND_ITEM_REQUEST_INFO_LORE:
+- ''
+- '§8▪ §fВсего запросов в друзья: §e%s'
+FRIEND_ITEM_REQUEST_NAME: '%s'
+FRIEND_ITEM_REQUEST_LORE:
+- ''
+- '§a▸ §a§lНажмите ЛКМ§7, чтобы принять запрос'
+- '§c▸ §c§lНажмите ПКМ§7, чтобы отклонить запрос'
+COMMAND_FRIENDS_ADD_FORMAT: /f add <ник игрока>
+COMMAND_FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
+COMMAND_FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
+COMMAND_FRIENDS_DENY_FORMAT: /f deny <ник игрока>
+COMMAND_FRIENDS_TP_FORMAT: /f tp <ник друга>
+COMMAND_FRIENDS_HELP:
+- '§7/friends add <ник игрока> §f- добавить игрока в друзья'
+- '§7/friends remove <ник игрока> §f- удалить игрока из друзей'
+- '§7/friends accept <ник игрока> §f- принять запрос игрока в друзья'
+- '§7/friends deny <ник игрока> §f- отклонить запрос игрока в друзья'
+- '§7/friends requests §f- список запросов в друзья'
+- '§7/friends list §f- список друзей'
+- '§7/friends tp <ник игрока> §f- телепортация на сервер друга'
+- '§7/friends party §f- отправить всем друзьям онлайн приглашение в Party'
+FRIENDS_LIMIT: '§6§lДрузья §8| §fДостигнут лимит друзей для вашей группы: §c%s'
+FRIENDS_NO_REQUESTS: '§6§lДрузья §8| §fУ Вас §cнет запросов §fв друзья'
+FRIENDS_NO_FRIENDS: '§6§lДрузья §8| §fУ вас §cнет §fдрузей'
+FRIENDS_ALREADY_FRIEND: '§6§lДрузья §8| §fДанный игрок уже §aявляется вашим другом'
+FRIENDS_YOURSELF_AS_FRIEND: '§6§lДрузья §8| §fВы §cне можете §fотправить заявку в друзья самому себе'
+FRIENDS_TARGET_LIMIT: '§6§lДрузья §8| §fУ данного игрока §cдостигнут лимит §fдрузей'
+FRIENDS_TARGET_IGNORE: '§6§lДрузья §8| §fДанный игрок добавил вас в §cсписок игнорируемых'
+FRIENDS_NOT_FRIEND: '§6§lДрузья §8| §fДанный игрок §cне является §fвашим другом'
+FRIENDS_REDIRECTING: '§6§lДрузья §8| §fВы были телепортированы на сервер игрока §a%s§f: §d%s'
+FRIENDS_FRIEND_REMOVED: '§6§lДрузья §8| §fВы удалили игрока §a%s §fиз списка ваших друзей'
+FRIENDS_FRIEND_REMOVED_YOU: '§6§lДрузья §8| §fИгрок §c%s§f удалил вас из списка друзей'
+FRIENDS_ALREADY_SENT_REQUEST: '§6§lДрузья §8| §fВы §cуже отправили §fзапрос в друзья данному игроку'
+FRIENDS_INVITE_EVENT_CANCELLED: '§6§lДрузья §8| §fДанный игрок §cзапретил §fотправлять ему запросы в друзья'
+FRIENDS_INVITE: ''
+#доделать
+YOU_DONT_HAVE_FRIENDS: '§cУ Вас нет друзей'
+FRIENDS_NOT_FRIENDS: '§cДанного игрока нет у Вас в друзьях'
+
+FRIENDS_ALREADY_FRIENDS: '§cВы уже являетесь друзьями!'
+FRIENDS_PLAYER_REMOVED: '§6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей'
+FRIENDS_PLAYER_REMOVED_YOU: '§6Друзья §8| §fИгрок %s §fудалил Вас из друзей.'
+FRIENDS_ONLINE: '§6Друзья §8| §fВ онлайне §a%d §f%s'
+FRIENDS_INVITE_SENT: '§6Друзья §8| §fЗапрос в друзья отправлен игроку %s'
+FRIENDS_ALREADY_SENT_REQUEST: '§cВы уже отправляли запрос в друзья данному игроку...'
+FRIENDS_INVITE_EVENT_CANCELLED: '§cДанный игрок запретил отправлять ему запросы в друзья'
+FRIENDS_INVITE_TEXT: '§6Друзья §8| §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут'
+FRIENDS_INVITE_EXPIRED: '§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§cУ вас нет запросов в друзья от игрока %s'
+FRIENDS_NEW_FRIEND: '§6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s'
+FRIEND_NEW_INVITE: '%s §fпредлагает вам дружить §7(общих %s)'
+FRIENDS_YOU_REJECTED_REQUEST: '§6Друзья §8| §fВы отклонили запрос в друзья от игрока %s'
+FRIENDS_REQUEST_REJECTED: '§6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья'
+FRIEND_JOINED: '§6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)'
+FRIEND_JOINED_HOVER: '§fНажмите, чтобы написать игроку %s §fсообщение'
 #BUNGEE
 MOTD: '§a§l⚝ §6§lFixMine §7§k|§b 1.12.2-1.17 §c▻ §a§lОТКРЫТЫЙ БЕТА-ТЕСТ{newline}§b➳ §fПоучаствуй в §c§lобновлении сервера'
 TAB_HEADER: 
