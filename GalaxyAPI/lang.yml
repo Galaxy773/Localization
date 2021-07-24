@@ -1,13 +1,16 @@
 #CORE
 ERROR_WITH_YOUR_BUKKIT: '§cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер и попробуйте ввести команду снова'
 #TRADER
-TRADER_GUI_NAME: '§7Скупщик'
+TRADER_GUI_NAME: '§8Скупщик'
 TRADER_NO_ITEMS: '§6§lСкупщик §8| §fУ вас нет §cнеобходимых §fпредметов'
 TRADER_NOT_ENOUGH_ITEMS: '§6§lСкупщик §8| §fУ вас §cнедостаточно §fпредметов'
 TRADER_SELL_ITEMS: '§6§lСкупщик §8| §fВы продали §a%s §fпредметов на сумму §e%s§6⛂'
 TRADER_ITEM_LORE:
 - ''
 - ' §8▪ §fСтоимость: §e%s§6⛂'
+- ' §8▪ §fКоличество: §6%s'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы продать'
 #CORE-FRIENDS
 FRIENDS_GUI_NAME: 'Список друзей'
 FRIEND_ITEM_INFO_NAME: '§6§lИнформация'
