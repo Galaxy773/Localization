@@ -2149,10 +2149,12 @@ DRAGON_WORLD_REGEN_STARTED: §6§lСервер §8| §fНачалось восс
 DRAGON_WORLD_REGEN_COMPLETE: §6§lСервер §8| §fВосстановление §dКрая §fзавершено
 WORLD_IS_LOADING: §6§lСервер §8| §fМир загружен не до конца, пожалуйста, подождите
 DRAGON_IS_KILLED: §6§lСервер §8| §fВаш остров уже убивал эндер-дракона
-USING_ANOTHER_PORTAL: §6§lСервер §8| §fВы не можете использовать чужие порталы
+USING_ANOTHER_PORTAL: §6§lСервер §8| §fВы §cне можете §fиспользовать чужие порталы
 WORLD_NOT_LOADED: §6§lСервер §8| §fЭндер-мир не загружен, сообщите администратору
 DRAGON_KILL: §6§lСервер §8| §6§lПоздравляем§f! §fВы убили дракона эндер-края и получили
   §e%s §fмонет
+UPGRADE_NETHER_ANOTHER_PORTAL: §6§lСервер §8| §fВы §cне можете §fиспользовать чужие порталы
+UPGRADE_NETHER_NOT_BUYED: '§6§lСервер §8| §fЧтобы использовать портал, купите улучшение ад: §a/is upgrade'
 CANCEL_NAME: §cОтменить
 CONFIRMED_NAME: Подтвердить
 ANSWER_YES: Да
