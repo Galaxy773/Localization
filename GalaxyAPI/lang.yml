@@ -827,7 +827,7 @@ SOUL_CLEAR_LORE:
 - ''
 - '§a▸ §a§lНажмите§7, чтобы убрать духа'
 SOUL_CLEAR: '§6§lДухи §8| §fВы убрали §a%s §sдуха'
-SOUL_NOT_SELECTED: '§6§lДухи §8| §fУ вас §cне установлен §f%s дух'
+SOUL_NOT_SELECTED: '§6§lДухи §8| §fУ вас §cне установлен §fдух'
 SOUL_IS_SELECTED_LORE:
 - ' §8▪ §fСтатус: §aвыбран'
 - ' §8▪ §fУровень: §6%s'
