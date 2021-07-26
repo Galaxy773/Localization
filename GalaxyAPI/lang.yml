@@ -166,7 +166,7 @@ FRIENDS_REQUEST_REJECTED: '§6§lДрузья §8| §fИгрок §c%s §fотк
 FRIENDS_ONLINE: '§6§lДрузья §8| §fУ вас §a%s §fдрузей в сети'
 FRIEND_JOINED: '§6§lДрузья §8| §fВаш друг %s §fзашел на сервер'
 #BUNGEE
-MOTD: '§a§l⚝ §6§lFixMine §7§k|§b 1.12.2-1.17 §c▻ §a§lОТКРЫТЫЙ БЕТА-ТЕСТ{newline}§b➳ §fПоучаствуй в §c§lобновлении сервера'
+MOTD: '§a§l⚝ §6§lFixMine §7§k|§b 1.12.2-1.17 §8▻ §e§lВайп сервера{newline}§b➳ §6§lЛетний в вайп §fпроекта'
 TAB_HEADER: 
 - '§6§lFix§f§lMine'
 - ''
