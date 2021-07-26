@@ -997,6 +997,12 @@ SURVIVAL_MENU_ITEM_LORE:
 - ' §7Данное меню поможет вам'
 - ' §7ознакомиться с режимом'
 
+ONEBLOCK_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
+ONEBLOCK_MENU_ITEM_LORE:
+- ''
+- ' §7Данное меню поможет вам'
+- ' §7ознакомиться с режимом'
+
 SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
