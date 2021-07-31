@@ -97,6 +97,7 @@ TRADER_ITEM_LORE:
 - ''
 - '§a▸ §a§lНажмите§7, чтобы продать'
 #CORE-FRIENDS
+FRIENDS_DENIED_SERVER: '§6§lДрузья §8| §fВы §cне можете §fтелепортироваться на этот сервер'
 FRIENDS_GUI_NAME: 'Список друзей'
 FRIEND_ITEM_INFO_NAME: '§6§lИнформация'
 FRIEND_ITEM_INFO_LORE:
