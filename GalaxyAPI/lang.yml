@@ -69,11 +69,12 @@ ACHIEVEMENTS_SKYWARS_LORE:
 - ' §8▪ §fВыполнено: §e%s§8/§a%s §b%s §6%s'
 - ''
 - '§a▸ §a§lНажмите§7, чтобы посмотреть'
-ACHIEVEMENTS_LOBBY_NAME: '§e§lЛобби'
-ACHIEVEMENTS_LOBBY_LORE: 
+
+ACHIEVEMENTS_GLOBAL_NAME: '§e§lОбщие'
+ACHIEVEMENTS_GLOBAL_LORE: 
 - ''
 - ' §7Эти достижения выполняются'
-- ' §7на в лобби и хабах'
+- ' §7независимо от конкретных режимов'
 - ''
 - ' §8▪ §fВыполнено: §e%s§8/§a%s §b%s §6%s'
 - ''
