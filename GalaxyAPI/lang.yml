@@ -1207,7 +1207,11 @@ SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
 SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a'
 SURVIVAL_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
-
+ACHIEVEMENTS_MENU_ITEM_NAME: '§d§lДостижения §7(ПКМ)'
+ACHIEVEMENTS_MENU_ITEM_LORE:
+- ''
+- ' §7Данное меню покажет'
+- ' §7ваши достижения'
 SURVIVAL_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
 SURVIVAL_MENU_ITEM_LORE:
 - ''
