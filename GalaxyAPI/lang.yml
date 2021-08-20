@@ -109,7 +109,7 @@ BEGGINING_COMPLETED_LORE:
 - '  §8▪ §e§l250 §fопыта'
 - '  §8▪ §b§l3000 §fмонет'
 - ''
-- ' §6◔ §fПолучена: §a%s'
+- ' §6◔ §fПолучено: §a%s'
 BEGGINING_NOT_COMPLETED_LORE:
 - ''
 - ' §7Создать остров'
