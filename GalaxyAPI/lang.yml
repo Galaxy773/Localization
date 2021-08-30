@@ -647,8 +647,8 @@ TITULS_SPECIAL_CATEGORY_ITEM_LORE:
 - ' §8▪ §fРазблокировано титулов §c§l%s§8/§a§l%s §e%s'
 - ''
 - '§a▸ §a§lНажмите§7, чтобы открыть'
-TITULS_EXCLUSIVE_CATEGORY_ITEM_NAME: '§9§lЭксклюзивные'
-TITULS_EXCLUSIVE_CATEGORY_ITEM_LORE:
+TITULS_GAMING_CATEGORY_ITEM_NAME: '§9§lИгровые'
+TITULS_GAMING_CATEGORY_ITEM_LORE:
 - ''
 - ' §8▪ §fРазблокировано титулов §c§l%s§8/§a§l%s §e%s'
 - ''
