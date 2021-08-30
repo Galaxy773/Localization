@@ -9,7 +9,7 @@ ACHIEVEMENTS_GUI_ITEM_LORE:
 ACHIEVEMENTS_NOT_LOADED: '§6§lСервер §8| §fДостижения не работают на данном режиме'
 ACHIEVEMENTS_GUI: '§8Достижения'
 HIDEN_ACHIEVEMENTS_GUI: '§8Достижения ▸ Секретные'
-LOBBY_ACHIEVEMENTS_GUI: '§8Достижения ▸ Лобби'
+GLOBAL_ACHIEVEMENTS_GUI: '§8Достижения ▸ Общие'
 SURVIVAL_ACHIEVEMENTS_GUI: '§8Достижения ▸ Выживание'
 ONEBLOCK_ACHIEVEMENTS_GUI: '§8Достижения ▸ Один Блок'
 LUCKYWARS_ACHIEVEMENTS_GUI: '§8Достижения ▸ LuckyWars'
