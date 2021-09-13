@@ -1358,6 +1358,17 @@ JOBS_BOARD_COMBO_LINE: '   Комбо: §d'
 JOBS_BOARD_STATS_LINE: ' §e§lСтатистика'
 MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§6§lТОП ЛЕСОРУБОВ'
+#BEDWARS LOBBY
+BW_LOBBY_BOARD_LEVEL_LINE: ' Уровень: §d'
+BW_LOBBY_BOARD_WINS_LINE: '   Победы: '
+BW_LOBBY_BOARD_LOSES_LINE: '   Поражения: '
+BW_LOBBY_BOARD_KILLS_LINE: '   Убийства: '
+BW_LOBBY_BOARD_FINAL_KILLS_LINE: '   Финальные убийства: '
+BW_LOBBY_BOARD_BROKEN_BEDS_LINE: '   Кроватей сломано: '
+BW_LOBBY_BOARD_GAMES_LINE: '   Игр сыграно: '
+
+BW_LOBBY_JOIN_TITLE: '§c§lBED§f§lWARS'
+BW_LOBBY_JOIN_SUBTITLE: '§fОткрытие режима'
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
 LOBBY_BOARD_DATE_LINE: '    §7'
