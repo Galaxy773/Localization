@@ -1194,7 +1194,7 @@ SKIN_IS_DEFAULT: '§6§lСкины §8| §fВы пытаетесь устано�
 SKIN_ALREADY_SET: '§6§lСкины §8| §fУ вас §aуже установлен §fданный скин'
 #BEDWARS
 BOARD_NAME_BW: ' §6§lFixMine §8» §e§lBedWars '
-BW_LOBBY_BOARD_STATS_LINE: '  §6§lСтатистика:'
+BW_LOBBY_BOARD_STATS_LINE: ' §6§lСтатистика:'
 #ONEBLOCK
 ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
 ONEBLOCK_BOARD_ISLAND_LINE: '   Фаза острова: §d'
