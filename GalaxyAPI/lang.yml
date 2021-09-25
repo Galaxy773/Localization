@@ -8,6 +8,7 @@ ENDER_CHEST_BUY_ROW_LORE:
 - '§a▸ §a§lНажмите§7, чтобы купить'
 ENDER_CHEST_BUY_ROW_NO_COINS: '§6§lСервер §8| §fУ вас §cнедостаточно §fкрышек, необходимо: §e%s'
 ENDER_CHEST_BUY_ROW: '§6§lСервер §8| §fВы §aприобрели §fновую строку в эндер-сундукуке'
+NO_COINS: '§6§lСервер §8| §fУ вас §cнедостаточно §fкрышек, необходимо: §e%s'
 #ACHIEVEMENTS
 ACHIEVEMENTS_GUI_ITEM_NAME: '§6§lДостижения'
 ACHIEVEMENTS_GUI_ITEM_LORE:
@@ -3134,7 +3135,7 @@ ISLAND_HELP_LORE:
 - §7/is home §f- телепортироваться домой
 - §7/is addmoney <количество> §f- добавить монет на баланс острова
 - §7/is destroy §f- удалить остров
-INVENTORY_IS_FULL: '§cОшибка, ваш инвентарь заполнен'
+INVENTORY_IS_FULL: '§6§lСервер §8| §cОшибка! §fваш инвентарь заполнен'
 ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
 ISLAND_GENERATOR_UPGRADE_LEVEL:
 - '§7Текущий уровень генератора: §a%s'
