@@ -1,4 +1,13 @@
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
+#ALTERNATE-ENDERCHEST | UPDATE 25.09.2021
+ENDER_CHEST_BUY_ROW_NAME: '§e§lКупить строку §6§l#%s'
+ENDER_CHEST_BUY_ROW_LORE:
+- ''
+- ' §8▪ §fСтоимость: §6§l%s §fрублей'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы купить'
+ENDER_CHEST_BUY_ROW_NO_COINS: '§6§lСервер §8| §fУ вас §cнедостаточно §fкрышек, необходимо: §e%s'
+ENDER_CHEST_BUY_ROW: '§6§lСервер §8| §fВы §aприобрели §fновую строку в эндер-сундукуке'
 #ACHIEVEMENTS
 ACHIEVEMENTS_GUI_ITEM_NAME: '§6§lДостижения'
 ACHIEVEMENTS_GUI_ITEM_LORE:
