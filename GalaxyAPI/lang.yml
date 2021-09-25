@@ -553,7 +553,6 @@ SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 REWARD_GUI_NAME: '§8Профиль ▸ Награды'
 TITULS_CATEGORY_GUI_NAME: '§8Профиль ▸ Титулы'
 DONATE_MENU_GUI_NAME: '§8Профиль ▸ Донат меню'
-
 PROFILE_BACK_ITEM_NAME: '§c← §c§lНажмите§7, чтобы вернуться назад'
 PROFILE_BACK_ITEM_LORE:
 - ''
@@ -1215,7 +1214,6 @@ SHOP_SELL_NO_ITEMS: §6§lМагазин §8| §fУ вас §cнет §fнеоб
 SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
 NO_PERMS_GROUP: §6§lFixMine §8| §fДанная возможность доступна от привилегии %s
-PROFILE_BACK_ITEM_NAME: §cВернуться назад
 PROFILE_BACK_ITEM_LORE2:
 - ''
 - §7Нажмите, чтобы вернуться на шаг назад
