@@ -420,10 +420,6 @@ IGNORE_ITEM_LORE:
 - '§a▸ §a§lНажмите§7, чтобы перестать игнорировать'
 COMMAND_IGNORE_ADD_FORMAT: '§6§lСервер §8| §fИспользование: §a/ignore add [ник]'
 COMMAND_IGNORE_REMOVE_FORMAT: '§6§lСервер §8| §fИспользование: §a/ignore remove [ник]'
-COMMAND_IGNORE_HELP: 
-- '§7/ignore add [ник] §f- добавить игрока в список игнорируемых'
-- '§7/ignore remove [ник] §f- удалить игрока из списка игнорируемых'
-- '§7/ignore list §f- открыть список игнорируемых'
 IGNORE_LIMIT: '§6§lСервер §8| §fДостигнут ваш §cлимит §fигнорируемых игроков: §e3'
 #AUTH
 AUTH_CHANGEPASSWORD_FORMAT: '§6§lАвторизация §8| §fИспользование: §a/cp старый_пароль новый_пароль'
@@ -1216,7 +1212,7 @@ SHOP_FORMAT_NO_ARGS: /shop <название магазина>
 NO_PERMS_GROUP: §6§lFixMine §8| §fДанная возможность доступна от привилегии %s
 PROFILE_BACK_ITEM_LORE2:
 - ''
-- §7Нажмите, чтобы вернуться на шаг назад
+-  §8▪ §fВернуться в предыдущее меню
 SHOP_LORE_ITEM:
 - ''
 - '§7Цена покупки: §a%s'
@@ -1880,10 +1876,6 @@ SPEED: §6§lСервер §8| §fВы установили скорость §a
 SPEED_TO: §6§lСервер §8| §fВы установили скорость §a%s §fигроку §a%s
 SUICIDE: §6§lСервер §8| §fВы §aубили §fсебя
 TRADE_FORMAT_NO_ARGS: §6§lСервер §8| §fУкажите §cник игрока §f- §a/trade [ник]
-TRADE_HELP:
-- §7/trade [ник] §f- предложить обмен
-- §7/trade accept [ник] §f- принять обмен
-TRADE_ERROR_YOU: §cВы не можете обмениваться сам с собой
 TRADE_ERROR: §6§lСервер §8| §fС вами еще никто §cне хотел §fпоменяться
 TRADE_ERROR2: §6§lСервер §8| §fУ вас нет ожидающих заявок от игрока §a%s
 TRADE_BROKEN: §6§lСервер §8| §fОтмен был §cотменен
@@ -1924,9 +1916,6 @@ CALL_INVITE_1: ' §a%s §fзапросил телепортацию к вам'
 CALL_INVITE_2: ' §fДля принятия запроса пишите §c'
 CALL_INVITE_3: ' §fДля отмены запроса пиши §c'
 CALL_INVITE_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
-CALL_HOVER_IGNORE:
-- §fНажмите сюда, чтобы §cотклонить
-- §fзапрос от игрока %s
 CALL: §6§lСервер §8| §f§fЗапрос на телепортацию отправлен игроку §a%s
 S_FORMAT: §6§lСервер §8| §fУкажите §cник игрока §f- §a/s [ник]
 SPAWN: §6§lСервер §8| §fВы были §aтелепортированы §fна спавн
@@ -1964,7 +1953,6 @@ WARP_NOT_FOUND: §6§lСервер §8| §fВарп с названием §c%s 
 WARP_NOT_YOUR: §6§lСервер §8| §fВы §cне являетесь §fсоздателем варпа
 WARP_REMOVED: §6§lСервер §8| §fВы удалили варп §c%s
 PLAYER_WARP_FORMAT: §6§lСервер §8| §fУкажите §cник игрока §f- §a/playerwarp [ник]
-PLAYER_WARP_GUI_NAME: Список варпов - %s
 PLAYER_NEVER_PLAYED: §6§lСервер §8| §fИгрок §c%s §fникогда не заходил на сервер
 TELEPORT_MOVE_ERROR: §6§lСервер §8| §fТелепортация §cотменена§f, вы сдвинулись с
   места
@@ -2098,10 +2086,6 @@ KIT_DISABLE_ONLY_LORE:
 TPTOGGLE_ITEM_NAME: §aТелепортации §f- §a%s
 ENABLED: Включены
 DISABLED: Отключены
-PROFILE_BACK_ITEM_NAME: §c← §c§lНажмите§f, чтобы вернуться назад
-PROFILE_BACK_ITEM_LORE2:
-- ''
--  §8▪ §fВернуться в предыдущее меню
 ALTERNATE_GUI_NAME: Меню
 WARP_GUI_NAME: Список варпов
 PLAYER_WARP_GUI_NAME: Игроки
@@ -2119,7 +2103,6 @@ LIST:
 - ' §a▪ §fДонатеры: %s'
 - ' §a▪ §fАдминистрация: %s'
 - ''
-LIST_EMPTY: '§7Никого нет'
 TRADE_FORMAT: '/trade <ник игрока>'
 TRADE_HELP:
 - '§7/trade <ник> §f- предложить обмен'
@@ -2127,8 +2110,6 @@ TRADE_HELP:
 TRADE_INVITE_1: ' %s §fпредложил вам обмен'
 TRADE: '§fЗапрос на обмен отправлен игроку %s'
 TRADE_ERROR_YOU: '§cВы не можете обмениваться сами с собой'
-TRADE_ERROR: '§6§lТрейды §8| §fС вами еще никто не хотел поменяться'
-TRADE_ERROR2: '§6§lТрейды §8| §fУ вас нет ожидающих заявок от игрока %s'
 SYSTEM_WARP_GUI_ITEM_NAME: '§6§l። §6§nВарпы сервера'
 SYSTEM_WARP_GUI_ITEM_LORE:
 - ''
@@ -2159,7 +2140,6 @@ MYWARP_GUI_NAME: Ваши
 KIT_CONTENT_GUI_NAME: '%s§8'
 KIT_GET_NAME: '§6§lПолучить набор'
 KIT_BUY_NAME: '§6§lКупить набор'
-KIT_BUY: 
 KIT_GET_COOLDOWN_LORE:
 - ''
 - ' §8▪ §fСтатус: §cнедоступен'
@@ -2488,7 +2468,6 @@ PTIME_ITEM_LORE:
 - §e▸ Нажмите, чтобы открыть меню
 
 TIME_CHANGE: '§6§lСервер §8| §fВы установили время в мире §e%s §fна: §a%s'
-TIME_GUI_NAME: Смена времени
 WEATHER_CHANGE: '§6§lСервер §8| §fВы установили погоду в мире §e%s §fна: §a%s'
 TIME_ITEM_WATCH_NAME: §aСменить время
 TIME_ITEM_WATCH_LORE:
@@ -2546,8 +2525,6 @@ DRAGON_KILL: §6§lСервер §8| §6§lПоздравляем§f! §fВы у
   §e%s §fмонет
 UPGRADE_NETHER_ANOTHER_PORTAL: §6§lСервер §8| §fВы §cне можете §fиспользовать чужие порталы
 UPGRADE_NETHER_NOT_BUYED: '§6§lСервер §8| §fЧтобы использовать портал, купите улучшение ад: §a/is upgrade'
-CANCEL_NAME: §cОтменить
-CONFIRMED_NAME: Подтвердить
 ANSWER_YES: Да
 ANSWER_NO: Нет
 NO_ITEMS_NAME: §cНичего не найдено
@@ -3033,7 +3010,6 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §a%s монет'
 - ' '
 - §e▸ Нажмите, чтобы купить
-ISLAND_UPGRADE_NETHER_NAME: Ад
 ISLAND_UPGRADE_NETHER_LORE:
 - null
 - §7Покупка ада
