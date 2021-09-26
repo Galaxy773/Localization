@@ -1,4 +1,5 @@
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
+FURNACE_GUI_NAME: '§8Зачарованные печки'
 #ALTERNATE-ENDERCHEST | UPDATE 25.09.2021
 ENDER_CHEST_NAME: '§8Эндер-Сундук'
 ENDER_CHEST_BUY_ROW_NAME: '§e§lКупить строку §6§l#%s'
