@@ -1,5 +1,17 @@
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
 FURNACE_GUI_NAME: '§8Зачарованные печки'
+#ALCHEMIST
+ALCHEMIST_GUI_NAME: 'Алхимик'
+ALCHEMIST_COOK_NAME: '§6§lСоздать'
+ALCHEMIST_COOK_LORE:
+- ''
+- ' §8▪ §fСтоимость за каждое зелье: §6§l%s§e⛂'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы создать'
+ALCHEMIST_NOT_POTION_ITEM: '§6§lАлхимик §8| §cОшибка! §fМожно совмещать §cтолько §fзелья'
+ALCHEMIST_NO_POTIONS_TO_COOK: '§6§lАлхимик §8| §cОшибка! §fНеобходимо как §cминимум 2 §fзелья'
+ALCHEMIST_NO_MONEY: '§6§lАлхимик §8| §fУ вас §cнедостаточно §fденег, необходимо: §6§l%s§e⛂'
+ALCHEMIST_MERGE_POTIONS: '§6§lАлхимик §8| §fВы §aуспешно создали §fновое зелье'
 #ALTERNATE-ENDERCHEST | UPDATE 25.09.2021
 ENDER_CHEST_NAME: '§8Эндер-Сундук'
 ENDER_CHEST_BUY_ROW_NAME: '§e§lКупить строку §6§l#%s'
