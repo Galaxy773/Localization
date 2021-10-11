@@ -2583,6 +2583,49 @@ ISLAND_PROFILE_BEACON_LORE:
 - §7которые будут действовать на весь остров
 - ' '
 - §e▸ Нажмите, чтобы открыть
+#ISLAND-EFFECTS
+ISLAND_EFFECTS_GUI_NAME: Эффекты
+ISLAND_EFFECT_SPEED_NAME: 'Скорость II'
+ISLAND_EFFECT_FAST_DIGGING_NAME: 'Спешка II'
+ISLAND_EFFECT_INCREASE_DAMAGE_NAME: 'Сила I'
+ISLAND_EFFECT_JUMP_NAME: 'Прыгучесть I'
+ISLAND_EFFECT_DAMAGE_RESISTANCE_NAME: 'Сопротивление к урону I'
+ISLAND_EFFECT_LUCK_NAME: 'Удача I'
+ISLAND_EFFECT_REGENERATION_NAME: 'Регенерация I'
+ISLAND_EFFECT_NIGHT_VISION_NAME: 'Ночное зрение I'
+ISLAND_EFFECT_ENABLED_LORE:
+- ''
+- ' §8▪ §fСтатус: §aвключен'
+- ''
+- '§a▸ §c§lНажмите§7, чтобы выключить'
+ISLAND_EFFECT_BUYED_LORE:
+- ''
+- ' §8▪ §fСтатус: §aкуплен'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы включить'
+ISLAND_EFFECT_NOT_BUYED_LORE:
+- ''
+- ' §8▪ §fСтатус: §сне куплен'
+- ' §8▪ §fСтоимость: §6§l%s§e⛂'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы купить'
+ISLAND_DISABLE_EFFECT: '§6§lСервер §8| §fВы §cвыключили §fэффект §e%s'
+ISLAND_ENABLE_EFFECT: '§6§lСервер §8| §fВы §aвключили §fэффект §e%s'
+ISLAND_BUY_EFFECT: '§6§lСервер §8| §fВы §aкупили §fэффект §e%s §fза §6§l%s§e⛂'
+ISLAND_NO_MONEY: '§6§lСервер §8| §fУ вас §cнедостаточно §fмонет, необходимо: §6§l%s§e⛂'
+ISLAND_PROFILE_EFFECTS_NAME: '§d§lЭффекты на острове'
+ISLAND_PROFILE_EFFECTS_LORE:
+- ''
+- ' §8▪ §fКуплено: §e§l%s§8/§a§l%s'
+- ' §8▪ §fВключено: §e§l%s§8/§a§l%s'
+- ''
+- ' §7Покупайте и активируйте эффекты'
+- ' §7которые будут накладываться на'
+- ' §7всех участников острова, которые'
+- ' §7находятся на нем'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы открыть'
+#END OF ISLAND-EFFECTS
 ISLAND_PROFILE_GUI_NAME: Настройки острова
 ISLAND_FLAG_GUI_NAME: Флаги
 ISLAND_REGUEST_GUI_NAME: Активные приглашения
