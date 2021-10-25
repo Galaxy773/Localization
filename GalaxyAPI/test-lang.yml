@@ -1411,7 +1411,7 @@ BW_LOBBY_BOARD_GAMES_LINE: '   Игр сыграно: §a%s'
 BW_LOBBY_JOIN_TITLE: '§c§lBED§f§lWARS'
 BW_LOBBY_JOIN_SUBTITLE: '§fОткрытие режима'
 #LOBBY
-LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
+BOARD_NAME_HUB: '§6§lFixMine §8» §e§lХаб'
 LOBBY_BOARD_DATE_LINE: '    §7'
 LOBBY_BOARD_GROUP_LINE: ' Группа: '
 LOBBY_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
