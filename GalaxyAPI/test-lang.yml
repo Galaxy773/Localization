@@ -2,7 +2,7 @@
 PUMPKIN_ENABLE_NAME: '§6§lНадеть тыкву §7(ПКМ)'
 PUMPKIN_ENABLE_LORE:
 - ''
-- ' §7Наденьте тыкву на голову'
+- ' §7Наденьте случайную тыкву на голову'
 PUMPKIN_DISABLE_NAME: '§e§lСнять тыкву §7(ПКМ)'
 PUMPKIN_DISABLE_LORE:
 - ''
