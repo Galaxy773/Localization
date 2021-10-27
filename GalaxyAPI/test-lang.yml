@@ -1,3 +1,7 @@
+#HALLOWEEN
+PUMPKIN_ENABLE_NAME: '§6§lНадеть тыкву §7(ПКМ)'
+PUMPKIN_DISABLE_NAME: '§e§lСнять тыкву §7(ПКМ)'
+#HALLOWEEN-END
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
 FURNACE_GUI_NAME: '§8Зачарованные печки'
 #ALCHEMIST
@@ -1460,10 +1464,10 @@ COMMAND_STAFF_CHAT_FORMAT: '§6§lСтафф-Чат §8| §fИспользова
 PRESENTS_COMPLETE: '§6§lПодарки §8| §a§lПоздравляем! §fВы смогли отыскать все новогодние подарки!'
 PRESENTS_IS_COMPLETED: '§6§lПодарки §8| §fВы §cуже §fотыскали все подарки'
 PRESENTS_IS_FINDED: '§6§lПодарки §8| §fВы §cуже §fнашли данный подарок'
-PRESENTS_FIND: '§6§lПодарки §8| §a§lПоздравляем! §fВы нашли подарок §7[§e%s§8/§a%s§7]'
+PRESENTS_FIND: '§6§lПодарки §8| §a§lПоздравляем! §fВы нашли подарок с конфетами §7[§e%s§8/§a%s§7]'
 PRESENTS_FIND_ACTION_BAR: '§e+§6§l%s §eзолота §8| §e+§6§l%s §eопыта'
 PRESENTS_COMPLETE_TITLE: '§6§lПоздравляем!'
-PRESENTS_COMPLETE_SUBTITLE: '§fВы отыскали §aвсе §fновогодние подарки'
+PRESENTS_COMPLETE_SUBTITLE: '§fВы отыскали §aвсе §fхэллоуинские подарки'
 BOSS_BAR_LOBBY:
 - '    §f§lВЕСЕННИЕ §c§lСКИДКИ! §f§lВСЕ ЦЕНЫ БЫЛИ §a§lСНИЖЕНЫ §f§lНА §6§l30%%'
 - '    §f§lПОКУПКА §e§lДОНАТА §f§lНА САЙТЕ §7► §6§lFIXMINE.RU'
