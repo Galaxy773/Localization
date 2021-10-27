@@ -1,6 +1,12 @@
 #HALLOWEEN
 PUMPKIN_ENABLE_NAME: '§6§lНадеть тыкву §7(ПКМ)'
+PUMPKIN_ENABLE_LORE:
+- ''
+- ' §7Наденьте тыкву на голову'
 PUMPKIN_DISABLE_NAME: '§e§lСнять тыкву §7(ПКМ)'
+PUMPKIN_DISABLE_LORE:
+- ''
+- ' §7Снимите тыкву с головы'
 #HALLOWEEN-END
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
 FURNACE_GUI_NAME: '§8Зачарованные печки'
