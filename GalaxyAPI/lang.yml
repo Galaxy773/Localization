@@ -1,5 +1,5 @@
 #MORE-ITEMS
-MORE_ITEMS_COMMAND_USE: '§6§lПредметы §8| §fИспользование: §a/moreitems give ник название кол-во
+MORE_ITEMS_COMMAND_USE: '§6§lПредметы §8| §fИспользование: §a/moreitems give ник название кол-во'
 MORE_ITEMS_ITEM_NOT_FOUND: '§6§lПредметы §8| §fПредмет с названием §c%s §fне найден'
 MORE_ITEMS_AMOUNT_NOT_CORRECT: '§6§lПредметы §8| §fКоличество введено §cневерно'
 #END-OF-MORE-ITEMS
