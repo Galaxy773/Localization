@@ -10,6 +10,7 @@ PUMPKIN_DISABLE_LORE:
 #HALLOWEEN-END
 SETTING_DISABLED_ON_THIS_GAME: '§6§lНастройки §8| §fДанная настройка §cнедоступна §fна этом режиме'
 FURNACE_GUI_NAME: '§8Зачарованные печки'
+BREWING_STAND_GUI_NAME: '§8Зачарованные зельеварки'
 #ALCHEMIST
 ALCHEMIST_GUI_NAME: 'Алхимик'
 ALCHEMIST_COOK_NAME: '§6§lСоздать'
