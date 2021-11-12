@@ -1429,7 +1429,7 @@ LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
 
 LOBBY_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
-LOBBY_JOIN_SUBTITLE: '§fВесеннее обновление!'
+LOBBY_JOIN_SUBTITLE: '§fПриятной игры'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
 PROFILE_ITEM_LORE:
