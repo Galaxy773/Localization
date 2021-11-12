@@ -2588,6 +2588,78 @@ ISLAND_OPENED_GUI_LORE:
 - '§7Открыто территории: §a%s'
 - '§7Участники: §c%s§7/§a%s'
 - '§7Онлайн участников: §a%s'
+#ISLAND-BIOMES
+ISLAND_BIOME_PLAINS_NAME: '§a§lСтандартный биом'
+ISLAND_BIOME_PLAINS_LORE:
+- ''
+- ' §8 §fКлимат: §aумеренный'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+ISLAND_BIOME_DESERT_NAME: '§e§lПустынный биом'
+ISLAND_BIOME_DESERT_LORE:
+- ''
+- ' §8 §fКлимат: §6тёплый'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_FOREST_NAME: '§2§lЛесной биом'
+ISLAND_BIOME_FOREST_LORE:
+- ''
+- ' §8 §fКлимат: §aумеренный'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_SWAMPLAND_NAME: '§9§lБолотистый биом'
+ISLAND_BIOME_SWAMPLAND_LORE:
+- ''
+- ' §8 §fКлимат: §aумеренный'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_JUNGLE_NAME: '§a§lТропический биом'
+ISLAND_BIOME_JUNGLE_LORE:
+- ''
+- ' §8 §fКлимат: §6тёплый'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_TAIGA_NAME: '§b§lСнежный биом'
+ISLAND_BIOME_TAIGA_LORE:
+- ''
+- ' §8 §fКлимат: §cхолодный'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_MESA_NAME: '§6§lГлиняный биом'
+ISLAND_BIOME_MESA_LORE:
+- ''
+- ' §8 §fКлимат: §aумеренный'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+
+ISLAND_BIOME_MUSHROOM_NAME: '§c§lГрибной биом'
+ISLAND_BIOME_MUSHROOM_LORE:
+- ''
+- ' §8 §fКлимат: §6тёплый'
+- ''
+- '§a▸ §a§lНажмите§7, чтобы выбрать'
+
+ISLAND_CREATE_ITEM_NAME: '§6§lСоздание острова'
+ISLAND_CREATE_ITEM_LORE:
+- ''
+- ' §7Выберите биом для острова'
+- ' §7Биом влияет на погоду,'
+- ' §7спавн животных и другое'
+- ''
+ISLAND_BIOME_ALREADY_SET: '§6§lСервер §8| §fУ вас §cуже установлен §fданный биом'
+ISLAND_BIOME_GUI_NAME: '§8Выбор биома'
 #ISLAND-EFFECTS
 ISLAND_EFFECTS_GUI_NAME: Эффекты
 ISLAND_EFFECT_SPEED_NAME: 'Скорость II'
