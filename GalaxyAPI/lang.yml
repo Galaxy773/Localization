@@ -7350,3 +7350,4 @@ SW_TEAMS_ALIVE: ' Команд: §a'
 SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cУ вашего тиммейта %s §cочень мало здоровья!
 SW_YOUR_TEAMMATE_IS_DEAD: §cВаш тиммейт (%s§c) погиб
 SW_GAME_STARTED_SUBTITLE: '§7Станьте последним выжившим!'
+BREAK_BLOCK_UNDER_TEAM: '§cНельзя ломать блоки под тимейтом :)'
