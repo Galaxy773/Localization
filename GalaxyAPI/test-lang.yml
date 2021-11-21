@@ -2665,6 +2665,7 @@ ISLAND_CREATE_ITEM_LORE:
 - ' §7спавн животных и другое'
 - ''
 ISLAND_BIOME_ALREADY_SET: '§6§lСервер §8| §fУ вас §cуже установлен §fданный биом'
+ISLAND_BIOME_CHANGE: '§6§lСервер §8| §fВы §aпоменяли биом острова на %s'
 ISLAND_BIOME_GUI_NAME: '§8Выбор биома'
 #ISLAND-EFFECTS
 ISLAND_EFFECTS_GUI_NAME: Эффекты
