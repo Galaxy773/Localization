@@ -2705,6 +2705,7 @@ ISLAND_EFFECT_NOT_BUYED_LORE:
 ISLAND_DISABLE_EFFECT: '§6§lСервер §8| §fВы §cвыключили §fэффект §e%s'
 ISLAND_ENABLE_EFFECT: '§6§lСервер §8| §fВы §aвключили §fэффект §e%s'
 ISLAND_BUY_EFFECT: '§6§lСервер §8| §fВы §aкупили §fэффект §e%s §fза §6§l%s§e⛂'
+ISLAND_LIMIT_EFFECTS: '§6§lСервер §8| §fОдновременно на острове можно включать только §c%s эффектов'
 ISLAND_NO_MONEY: '§6§lСервер §8| §fУ вас §cнедостаточно §fмонет, необходимо: §6§l%s§e⛂'
 ISLAND_PROFILE_EFFECTS_NAME: '§d§lЭффекты на острове'
 ISLAND_PROFILE_EFFECTS_LORE:
