@@ -1356,6 +1356,11 @@ ONEBLOCK_MENU_ITEM_LORE:
 - ' §7Данное меню поможет вам'
 - ' §7ознакомиться с режимом'
 
+ONEBLOCK_START_ITEM_NAME: '§2§lСоздать остров §7(ПКМ)'
+ONEBLOCK_START_ITEM_LORE:
+- ''
+- ' §7Создайте остров и начните играть'
+
 SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
