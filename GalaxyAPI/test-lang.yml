@@ -2474,6 +2474,7 @@ UPGRADE_NETHER_NOT_BUYED: '§6§lСервер §8| §fЧтобы использ�
 ANSWER_YES: Да
 ANSWER_NO: Нет
 NO_ITEMS_NAME: §cНичего не найдено
+ISLAND_CREATE_GUI_NAME: 'Создание острова'
 ISLAND_FLAG_ENABLE: '§7Статус: §aвключено'
 ISLAND_FLAG_DISABLE: '§7Статус: §cвыключено'
 ISLAND_CREATE_TITLE: §eОстров успешно создан!
