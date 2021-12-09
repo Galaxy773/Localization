@@ -3146,3 +3146,958 @@ LOBBY_JOIN_MESSAGE:
 - ''
 - '  §9[vk.com/fixmine_ru] §8- §b[discord.fixmine.ru]'
 - '§8§m -------------------------------------------'
+# skywars
+INVITE_TITLE: '              §8-| §6§l%s §8|-'
+
+#PARTY
+PARTY_YOU_CANT_SENT_INVITES: '§6§lParty §8| §fОтправлять приглашения в группу может только ее создатель!'
+PARTY_INVITE_ALREADY_SENT: '§cВы уже отправили запрос этому игроку'
+PARTY_INVITE_TOO_FAST: '§6§lParty §8| §fВы §cслишком часто §fотправляете §cзапросы§f в группу'
+PARTY_INVITE_CANCELLED: '§6§lParty §8| §fВы не можете отправить приглашение в группу этому игроку, так как он отключил приглашения в группы'
+PARTY_NEW_INVITE: '   %s §fпригласил вас в группу'
+PARTY_INVITE_SENT: '§6§lParty §8| §fПриглашение в группу отправлено игроку %s'
+PARTY_INVITE_EXPIRED: '§6§lParty §8| §fПриглашение в группу, отправленное игроку %s §fистекло'
+PARTY_NO_INVITES: '§cУ вас нет приглашения в эту группу или оно истекло'
+PARTY_OWNER_OFFLINE: '§cОшибка, отправитель приглашения сейчас оффлайн'
+PARTY_JOINED_BROADCAST: '§6§lParty §8| %s §fприсоединился к группе'
+PARTY_NEW_PARTY_WITH: '§6§lParty §8| §fВы создали новую группу с игроком %s'
+PARTY_JOINED_PARTY: '§6§lParty §8| §fВы присоединились к группе игрока %s'
+PARTY_INVITE_DECLINED: '§6§lParty §8| §fВы отклонили приглашение в группу от игрока %s'
+PARTY_YOUR_INVITE_DECLINED: '§6§lParty §8| §f%s §fотклонил Ваше приглашение в группу (он просто не знает, что теряет)'
+PARTY_CANT_INVITE_YOURSELF: '§cОшибка, Вы не можете пригласить в группу самого себя'
+PARTY_TARGET_IN_PARTY: '§cОшибка, игрок %s §cуже в группе'
+PARTY_NOT_IN_PARTY: '§6§lParty §8| §fОшибка, вы не состоите в группе, видимо вы никому не нужны :('
+YOU_CANT_DISBAND_PARTY: '§cРаспустить группу может только её создатель'
+PARTY_DISBANDED: '§6§lParty §8| §fВаша группа была расформирована'
+YOU_CANT_KICK_PARTY: '§cУдалять игроков из группы может только её создатель'
+PARTY_CANT_KICK_YOURSELF: '§cТы дурак или да?!'
+PARTY_PLAYER_NOT_IN_YOUR_PARTY: '§cОшибка, данный игрок не состоит в Вашей группе'
+PARTY_PLAYER_KICKED: '§6§lParty §8| §fВы удалили игрока %s §fиз группы'
+PARTY_YOU_KICKED: '§6§lParty §8| %s §fудалил Вас из группы'
+PARTY_KICK_BROADCAST: '§6§lParty §8| %s §fбыл удален лидером группы'
+PARTY_KICKOFFLINE_BROADCAST: '§6§lParty §8| %s §fудалил всех оффлайн игроков из группы'
+PARTY_KICK_OFFLINE_NO: '§cВсе участники группы онлайн...'
+PARTY_CHAT: '§d§lЧат группы §8| §f%s §8» §f%s'
+YOU_CANT_SET_OWNER_PARTY: '§cОшибка, передать управление группой может только её владелец'
+PARTY_SETOWNER_FORMAT: '/party setowner <ник>'
+PARTY_SETOWNER_YOURSELF: '§6§lParty §8| §fВы уже являетесь владельцем группы'
+PARTY_PLAYER_SET_OWNER: '§6§lParty §8| §fВы передали права лидера игроку %s'
+PARTY_YOU_NOW_OWNER: '§6§lParty §8| %s §fпередал Вам права на управление группой'
+PARTY_BROADCAST_OWNER: '§6§lParty §8| %s §fстал новым владельцем группы'
+LEADER_LEAVE_PARTY: '§6§lParty §8| §fЧтобы §cпокинуть §fгруппу, сначала передайте права управления ею другому игроку!'
+PARTY_LEFT_PARTY: '§6§lParty §8| §fВы покинули группу игрока %s'
+PARTY_LEAVE_BROADCAST: '§6§lParty §8| %s §fпокинул группу'
+PARTY_ALREADY_IN_PARTY: '§6§lParty §8| §fВы уже в группе'
+PARTY_LIMIT: '§cОшибка, в вашей группе максимальное кол-во участников'
+PARTY_AVAILABLE_SETTING_LIST: '§6§lParty §8| §fСписок доступных настроек:'
+PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'
+PARTY_LIST:
+- '§6§lParty §8| §fСписок игроков в группе (§a%s§f\§a%s§f):'
+- ' §c• §fЛидер: §a%s §f(§a%s§f)'
+- ' §c• §fУчастники: §a%s'
+PARTY_NULL_HELP:
+- '§7/party invite <ник игрока> §f- создать новую группу'
+- '§7/party requests §f- список приглашений в группу'
+- '§7/party join <ник игрока> §f- присоединиться к публичной группе игрока'
+PARTY_OWNER_HELP:
+- '§7/party kick <ник игрока> §f- удалить игрока из группы'
+- '§7/party kickoffline §f- удалить оффлайн игроков из группы'
+- '§7/party setowner <ник игрока> §f- передать права владения группой'
+- '§7/party disband §f- распустить группу'
+- '§7/party warp §f- телепортировать всех участников на текущий сервер'
+- '§7/party setting <настройка> <true/false> §f- настройки группы'
+PARTY_NOT_OWNER_HELP:
+- '§7/party leave §f- покинуть группу'
+PARTY_ALL_HELP:
+- '§7/pchat <сообщение> §f- чат группы'
+- '§7/party list §f- список участников группы'
+- '§7/party invite <ник игрока> §f- пригласить игрока в группу'
+YOU_CANT_SET_SETTINGS: '§cИзменять настройки группы может только её создатель'
+YOU_WERE_KICKED_FROM_THIS_PARTY: '§6§lParty §8| §fВы были исключены из этой группы, поэтому больше не можете войти в нее'
+PARTY_HE_IS_NOT_IN_PARTY: '§cОшибка, данный игрок не состоит в группе'
+PARTY_NOT_PUBLIC: '§cОшибка, группа этого игрока не является публичной'
+PLAYER_JOINED_PUBLIC_PARTY: '§6§lParty §8| %s §fприсоединился к публичной группе'
+PARTY_JOIN_FORMAT: '/party join <ник игрока>'
+PARTY_SETTINGS_FORMAT: '/party setting <настройка> <true/false>'
+PARTY_SETTING_ALREADY_SET: '§cОшибка, значение данной настройки уже является указанным'
+PARTY_SETTING_SET: '§6§lParty §8| §fЗначение настройки §a%s§f обновлено'
+PARTY_SETTING_CHANGED: '§6§lParty §8| §a%s §fобновил значение настройки §a%s§f в группе'
+PARTY_ALL_MEMBERS_LEFT: '§cВаша группа была удалена, поскольку все участники покинули её'
+PARTY_NO_REQUESTS: '§cОшибка, у вас нет приглашений в группы'
+PARTY_REQUESTS_TITLE: '§6§lParty §8| §fСписок приглашений в группы (§a%s§f):'
+PARTY_REQUEST: '  §c• §fЗапрос от %s§f §7(/party accept %s)'
+PARTY_INVITE_FORMAT: '/party invite <ник>'
+PARTY_CHAT_FORMAT: '/pchat <сообщение>'
+PARTY_KICK_FORMAT: '/party kick <ник>'
+PARTY_ACCEPT_FORMAT: '§7/party accept %s §f- принять приглашение'
+PARTY_DECLINE_FORMAT: '§7/party decline %s §f- отклонить приглашение'
+
+PUBLIC_PARTY_SETTING: 'публичность'
+PUBLIC_PARTY_SETTING_DESCRIPTION: 'делает группу публичной и разрешает вступать в нее без приглашения'
+ALL_INVITE_PARTY_SETTING: 'приглашения'
+ALL_INVITE_PARTY_SETTING_DESCRIPTION: 'позволяет всем участникам приглашать игроков в группу'
+
+ITEM_SELECT_ALREADY:
+- ' '
+- '§e▸ Вы выбрали этот предмет'
+ITEM_CLICK_TO_SELECT:
+- ' '
+- '§e▸ Нажмите, чтобы выбрать'
+ITEM_CLICK_TO_UNSELECT:
+- ' '
+- '§e▸ Нажмите, чтобы снять выбор'
+ITEM_IS_SELECTED:
+- ' '
+- '§c▸ Этот предмет уже выбран'
+ITEM_CANT_SELECT:
+- ' '
+- '§cВы не можете выбрать этот предмет'
+- '§7Для его выбора Вам необходимо:'
+ITEM_CLICK_TO_PURCHASE:
+- ' '
+- '%s'
+- ' '
+- '§e▸ Нажмите, чтобы приобрести'
+ITEM_CLICK_TO_PURCHASE_WITH_DISCOUNT:
+- ' '
+- '%s'
+- ' '
+- '§fВаша скидка составляет %s%%'
+- '§e▸ Нажмите, чтобы приобрести'
+ITEM_CANT_PURCHASE:
+- ' '
+- '§cВы не можете купить этот предмет'
+- '§7Для его покупки Вам необходимо:'
+ITEM_IS_NOT_CHOSEN: '§cНичего не выбрано'
+ITEM_UNSELECTED: 'Выбор снят с текущего предмета'
+CHOSEN_ITEM_IS: '§7Выбрано: §a%s'
+ITEMS_GUI_AVAILABLE_ITEMS_PERCENTAGE: '§7Открыто: §a%s%% §8(§e%s§f/§e%s§8)'
+ITEMS_GUI_COST_FORMAT: '§7Стоимость: %s %s'
+ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Стоимость (со скидкой): %s %s'
+ITEMS_GUI_BACK_NAME: '§cНазад'
+ITEMS_GUI_BACK_LORE:
+- '§7Нажмите, чтобы вернуться назад'
+TEAM_ITEM_NAME: '§eВыбор команды'
+TEAM_ITEM_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы выбрать свою команду'
+SPECTATOR_MENU_ITEM_NAME: '§eТелепортер'
+SPECTATOR_MENU_ITEM_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы наблюдать за игроками'
+HUB_ITEM_NAME: '§eВыход'
+HUB_ITEM_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы покинуть арену'
+CATEGORIES_ITEM_NAME: '§eПредметы'
+CATEGORIES_ITEM_LORE:
+- '§7Кликните, чтобы выбрать предметы'
+PLAYAGAIN_ITEM_NAME: '§eИграть заного'
+PLAYAGAIN_ITEM_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы начать новую игру'
+SPECTATOR_SETTINGS_ITEM_NAME: '§eНастройки наблюдателя'
+SPECTATOR_SETTINGS_ITEM_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы изменить настройки'
+- '§7наблюдателя'
+REPLAY_ITEM_NAME: '§eНачать новую игру'
+REPLAY_ITEM_LORE:
+- '§7Кликните, чтобы начать новую игру'
+- '§7на этом же режиме'
+
+GAME_TOP_WINS_LINES:
+  - '§8§l« §6§lТоп по выйгрышам §8§l»'
+  - '§7%s'
+  - '§fСамые удачливые игроки'
+  - '{time}'
+  - '§7Нажмите здесь, чтобы сменить'
+  - '{item:351:1}'
+GAME_TOP_KILLS_LINES:
+  - '§8§l« §a§lТоп по убийствам §8§l»'
+  - '§7%s'
+  - '§fСамые сильные игроки'
+  - '{time}'
+  - '§7Нажмите здесь, чтобы сменить'
+  - '{item:351:10}'
+
+COINS_PREDICATE_ERROR_MSG: ' §8• §e%s §7%s (ваш баланс §e%s §7%s)'
+
+STATS_GUI_TITLE: 'Профиль ▸ Статистика'
+STATS_GUI_TITLE_TARGET: 'Статистика игрока %s'
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
+GOLD_EARNED_PER_GAME_STAT: 'Золота заработано'
+GAMES_STAT: 'Игр сыграно'
+KILLS_STAT: 'Убийств'
+FINAL_KILLS_STAT: 'Финальных убийств'
+BEDS_BREAKED_STAT: 'Кроватей сломано'
+WINS_STAT: 'Побед'
+RATING_STAT: 'Рейтинг'
+BEST_TIME_STAT: 'Лучшее время'
+CHESTS_LOOTED_STAT: 'Облутано сундуков'
+
+TOP_PLACE: 'место'
+HOLO_STATS_TITLE: '§eСтатистика за игру'
+GAME_WINNER: 'Победитель - %s'
+GAME_WINNERS: 'Победители - %s'
+GAME_TITLE_WIN: '§6§lПОБЕДА'
+GAME_TITLE_TEAM_WIN: '§7Ваша команда победила в этой игре'
+GAME_TITLE_SOLO_WIN: '§7Вы остались последним выжившим игроком'
+GAME_TITLE_OVER: '§c§lИГРА ОКОНЧЕНА'
+GAME_TITLE_NOT_WINNER: '§7Вы проиграли в этой игре'
+
+ARENA_BUSY: '§cАрена заполнена, не хватает слотов? Купите §e§lGOLD§c или выше'
+ARENA_START: '§cИгра начинается...'
+ARENA_RESTART: '§cСервер перезагружается...'
+BOARD_NAME: '§6§lFixMine §8» §e§l%s'
+BOARD_DATE_LINE: '   §7'
+BOARD_PLAYERS: ' §fИгроков'
+BOARD_FOR_START: ' §fДля старта нужно'
+BOARD_WAIT: ' §fОжидание игроков'
+BOARD_MAPS: ' §fКарта'
+BOARD_SERVER: ' §fСервер'
+BOARD_PLAYERS: ' §fИгроков'
+BOARD_TEAMS: ' §fКоманды'
+BOARD_SPECTATOR: ' §fНаблюдателей'
+BOARD_TO_START: ' §fСтарт через'
+BOARD_SITE: '    §ewww.FixMine.ru'
+GAME_END_BOARD_WINNER: ' Победитель:'
+GAME_END_BOARD_WINNERS: ' Победители:'
+GAME_NO_WINNER: ' §cИгра закончилась в ничью'
+GAME_END_BOARD_DESC: ' Игра окончена!'
+GAME_WINNER: 'Победитель - %s'
+GAME_WINNERS: Победители - %s
+GAME_CHAT_FORMAT: '%s%s §8→ §f%s'
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсем§8] '
+JOIN_GAMER_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
+JOIN_SPEC_MSG_SUBTITLE: §7Вы можете только следить за игровым процессом
+JOIN_SPEC_MSG_TITLE: §cИгра уже началась
+KIT_PURCHASE_MESSAGE: Вы приобрели набор §a%s §fза §a%s §f%s
+KIT_SELECTION_MESSAGE: Вы выбрали набор §a%s
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманде§8] '
+LOCATOR_ITEM_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7находить ближайшего игрока'
+LOCATOR_ITEM_NAME: §aЛокатор
+ONLY_DONATOR: §cОшибка, на арене только донатеры
+PERK_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы выбрать один из всевозможных
+- §7умений на эту игру
+PERK_ITEM_NAME: §eУмения
+PERK_PURCHASE_MESSAGE: Вы приобрели умение §a%s §fза §a%s §f%s
+PERK_SELECTION_MESSAGE: Вы выбрали умение §a%s
+PLAYER_ALIVE_GAME: §fНа карте осталось §a%s§f %s
+PLAYER_LEFT: §fИгрок %s§f покинул игру
+QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
+RESPAWN_SUBTITLE: §7Вы возродитесь через §c%s §7%s
+RESPAWN_TITLE: §aВы возродились
+RESTART_ARENA_MSG: §cРестарт арены, через 5 секунд вы будете перемещены в лобби
+SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
+SELECTOR_TEAM_NO_PLAYERS: §7Нет игроков...
+SELECTOR_TEAM_PLAYERS: '§7Игроки:'
+SLOT_BUSY: §cПростите, но вы были перемещены в лобби, ваше место занял §r%s
+SOLO_NO_TEAM: §c§lВнимание! §cКомандная игра запрещена на Solo режиме.
+SPECTATOR_CAMERA_ACTIONBAR: §fНажмите §aSHIFT §fчтобы покинуть режим наблюдателя
+SPECTATOR_CAMERA_OFF: §cВы покинули режим наблюдателя
+SPECTATOR_CAMERA_SUBTITLE: 'Наблюдаем за игроком: %s'
+SPECTATOR_CAMERA_TITLE: §eРежим наблюдения
+SPECTATOR_INVENTORY_SEE_GUI_TITLE: Инвентарь ► %s
+SPECTATOR_KILLS_LORE: '§7Убийств: §c%s'
+SPECTATOR_MAIN_LORE:
+- '§7Здоровье: §e%s'
+- '§7Голод: §e%s'
+- ''
+- §e▸ ЛКМ, чтобы телепортироваться
+- §e▸ ПКМ, чтобы наблюдать от 1-ого лица
+SPECTATOR_MENU_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы наблюдать за игроками
+SPECTATOR_MENU_ITEM_NAME: §eТелепортер
+SPECTATOR_MENU_NAME: Телепортер
+SPECTATOR_MODE: Спектатор
+SPECTATOR_NO_PERK_LORE: §cНе выбран
+SPECTATOR_PERK_LORE: '§7Выбранный навык: §a%s'
+SPECTATOR_SETTINGS_FLY_OFF: §cВыключить постоянный полет
+SPECTATOR_SETTINGS_FLY_ON: §aВключить постоянный полет
+SPECTATOR_SETTINGS_GUI_NAME: Настройки наблюдателя
+SPECTATOR_SETTINGS_HIDE: §cСкрыть наблюдателей
+SPECTATOR_SETTINGS_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы изменить настройки
+- §7наблюдателя
+SPECTATOR_SETTINGS_ITEM_NAME: §eНастройки наблюдателя
+SPECTATOR_SETTINGS_NO_SPEED: Без скорости
+SPECTATOR_SETTINGS_SHOW: §aПоказать наблюдателей
+SPECTATOR_SETTINGS_SPEED: Скорость
+SPECTATOR_SETTINGS_VISION_OFF: §cВыключить ночное видение
+SPECTATOR_SETTINGS_VISION_ON: §aВключить ночное видение
+SPECTATOR_SETTING_CHANGED: §6Наблюдение §8| §fСкорость передвижения изменена
+SPECTATOR_SETTING_FLY_LORE:
+- ' '
+- §e▸ Нажмите, чтобы выключить
+SPECTATOR_SETTING_FLY_NAME: §cВыключить постоянный полет
+SPECTATOR_SETTING_FLY_OFF: §6§lНаблюдение §8| §fВы выключили постоянный полет
+SPECTATOR_SETTING_FLY_ON: §6§lНаблюдение §8| §fВы включили постоянный полет
+SPECTATOR_SETTING_GLOWING_LORE:
+- ' '
+- §7Данная настройка отключит подсветку
+- §7всех игроков на арене
+- ' '
+- §e▸ Нажмите, чтобы выключить
+SPECTATOR_SETTING_GLOWING_NAME: §cОтключить подсвечивание игроков
+SPECTATOR_SETTING_GLOW_HIDE: §6§lНаблюдение §8| §fВы подсветили всех игроков
+SPECTATOR_SETTING_GLOW_SHOW: §6§lНаблюдение §8| §fВы перестали подсвечивать всех игроков
+SPECTATOR_SETTING_GUI_TITLE: Настройки наблюдателя
+SPECTATOR_SETTING_HIDE_LORE:
+- ' '
+- §7Сейчас Вы видите других
+- §7наблюдателей. После изменения
+- §7этой настройки они будут скрыты
+- §7для Вас.
+- ' '
+- §e▸ Нажмите, чтобы скрыть
+SPECTATOR_SETTING_HIDE_NAME: §cСкрыть наблюдателей
+SPECTATOR_SETTING_HIDING: §6§lНаблюдение §8| §fВы не видите других наблюдателей
+SPECTATOR_SETTING_NOFLY_LORE:
+- ' '
+- §e▸ Нажмите, чтобы включить
+SPECTATOR_SETTING_NOFLY_NAME: §aВключить постоянный полет
+SPECTATOR_SETTING_NOSPEED_LORE:
+- ' '
+- §7Убирает скорость передвижения
+SPECTATOR_SETTING_NOSPEED_NAME: §cБез скорости
+SPECTATOR_SETTING_NO_GLOWING_LORE:
+- ' '
+- §7Данная настройка включит подсветку
+- §7всех игроков на арене
+- ' '
+- §e▸ Нажмите, чтобы включить
+SPECTATOR_SETTING_NO_GLOWING_NAME: §aВключить подсвечивание игроков
+SPECTATOR_SETTING_NO_VISION_LORE:
+- ' '
+- §e▸ Нажмите, чтобы включить
+SPECTATOR_SETTING_NO_VISION_NAME: §aВключить ночное видение
+SPECTATOR_SETTING_SHOWN: §6§lНаблюдение §8| §fВы снова видите других наблюдателей
+SPECTATOR_SETTING_SHOW_LORE:
+- ' '
+- §7Сейчас Вы не видите других
+- §7наблюдателей. После изменения
+- §7этой настройки Вы снова сможете
+- §7их видеть
+- ' '
+- §e▸ Нажмите, чтобы показать
+SPECTATOR_SETTING_SHOW_NAME: §aПоказать наблюдателей
+SPECTATOR_SETTING_SPEED_ALREADY:
+- ' '
+- §c▸ Вы уже выбрали эту скорость
+SPECTATOR_SETTING_SPEED_CLICK:
+- ' '
+- §e▸ Нажмите, чтобы изменить скорость
+SPECTATOR_SETTING_SPEED_LORE:
+- ' '
+- §7Изменяет скорость передвижения
+- §7в зависимости от выбранного
+- §7уровня
+SPECTATOR_SETTING_SPEED_NAME: §eСкорость %s
+SPECTATOR_SETTING_VISION_LORE:
+- ' '
+- §e▸ Нажмите, чтобы выключить
+SPECTATOR_SETTING_VISION_NAME: §cВыключить ночное видение
+SPECTATOR_SETTING_VISION_OFF: §6§lНаблюдение §8| §fНочное видение выключено
+SPECTATOR_SETTING_VISION_ON: §6§lНаблюдение §8| §fНочное видение включено
+SPECTATOR_TEAM_LORE: '§7Команда: %s'
+START_CHANNEL_GUI_NAME: Выбор карты
+START_GAME_ARENA: §fИгра начнется через §a%s §f%s
+START_GAME_SKYWARS_SOLO:
+- §eВаша задача скинуть всех игроков
+- §eи остаться на острове. Упал? Ну все, ты проиграл!
+START_GAME_TITLE: Останьтесь последним выжившим
+START_GUI_NAME: Выберите тип игры
+START_GUI_NO_SERVER1: §cОшибка, не могу найти
+START_GUI_NO_SERVER2: §cподходящие сервера
+START_SPECTATE_GUI_NAME: Наблюдение за игрой
+START_TITLE_MSG: СТАРТ
+TEAM_AQUA: Голубые
+TEAM_BLUE: Синие
+TEAM_DARK_AQUA: Бирюзовые
+TEAM_GAME_GLOBAL_CHAT_FORMAT: ' §8[%sВсем§8] '
+TEAM_GAME_LOCAL_CHAT_FORMAT: ' §8[%sКоманде§8] '
+TEAM_GRAY: Серые
+TEAM_GREEN: Зелёные
+TEAM_IS_BANABLE: §cКомандная игра запрещена у нас. Вы были исключены из игры
+TEAM_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы выбрать свою команду
+TEAM_ITEM_NAME: §eВыбор команды
+TEAM_LIGHT_GREEN: Салатовые
+TEAM_LOSE: §fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)
+TEAM_NAME: Команда
+TEAM_NO_TEAM: §c§lВнимание! §cОбразование союзов из нескольких команд запрещено.
+TEAM_ORANGE: Оранжевые
+TEAM_PINK: Розовые
+TEAM_PURPLE: Фиолетовые
+TEAM_RED: Красные
+TEAM_SELECTED: §fВы выбрали команду %s
+TEAM_SELECTOR_ALREADYIN:
+- ' '
+- §c▸ Вы уже в этой команде
+TEAM_SELECTOR_EMPTY: §7Игроков нет
+TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
+TEAM_SELECTOR_FULL:
+- ' '
+- §c▸ В команде нет мест
+TEAM_SELECTOR_GUI_TITLE: Выбор команды
+TEAM_SELECTOR_PLAYERS: '§7Игроки в команде:'
+TEAM_SELECTOR_SELECT:
+- ' '
+- §e▸ Нажмите, чтобы выбрать
+TEAM_WHITE: Белые
+TEAM_YELLOW: Жёлтые
+TELEPORTER_CLICK_TO_TELEPORT:
+- ' '
+- §e▸ ЛКМ, чтобы телепортироваться
+- §e▸ ПКМ, чтобы следить от 1-ого лица
+TELEPORTER_GUI_TITLE: Телепортер
+TELEPORTER_PLAYER_DISTANCE: '§7Расстояние: §a%s §7блоков'
+TELEPORTER_PLAYER_HEALTH: '§7Здоровье: §a%s§4❤'
+TELEPORTER_PLAYER_KIT: '§7Выбранный набор: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Выбранное умение: §e%s'
+TO_START_TITLE: §fДо старта
+TYPE_DOUBLES: Парный режим
+TYPE_ERROR: §cError!
+TYPE_MEGA: Командный режим
+TYPE_SOLO: Одиночный режим
+TYPE_TEAM: Командный режим
+WIN_PLAYER_BOARD: Победил игрок
+WIN_TEAM_BOARD: Победила команда
+YOU_CANNOT_RESUME: §cОшибка, Вы нигде не играли или сервер был перезагружен
+YOU_CAN_REJOIN: §fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа
+  в игру
+YOU_DEAD: §cВы погибли
+YOU_DEAD_SPECTATOR: §7Теперь вы наблюдатель
+YOU_DIED_CLICK_TO_VOTE: '%s§fОцените карту, на которой Вы играли: '
+YOU_WERE_REJOINED: §aВы повторно вошли в игру на сервере %s
+COMPASS_ITEM_LORE:
+- '§7Используй его для телепортации к игрокам'
+COMPASS_ITEM_NAME: '§eТелепортер'
+COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
+COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
+COMPASS_MODE_CHANGED: 'Режим локатора изменен на §e%s'
+COMPASS_MODE_NEAREST_PLAYER: 'поиск ближайшего игрока'
+COMPASS_MODE_TEAMMATE: 'поиск ближайшего тиммейта'
+GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7привилегия %s §7или выше §7(Вы %s§7)'
+GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7привилегия не выше %s §7(Вы %s§7)'
+GROUP_PREDICATE_ONLY_THIS_GROUP_ERROR_MSG: ' §8• §7привилегия %s §7(Вы %s§7)'
+LEVEL_PREDICATE_ERROR_MSG: ' §8• §7уровень §a%s §7(сейчас у Вас §a%s§7)'
+YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: '§cОшибка, просматривать статистику других игроковможет только §9§lДРАГОН §cи выше'
+INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+INGAME_STATS_MESSAGES_TITLE:
+- ' '
+- ' §cВНИМАНИЕ! §fБудет отображена статистика только'
+- ' §fс текущего режима. Чтобы просматривать статистику'
+- ' §fсо всех режимов, перейдите в лобби'
+STATS_IS_NOT_LOADED: §cОшибка, статистика не загружена
+CATEGORY_CAGE_LORE:
+- ' '
+- §7Надоело появляться в обычной клетке?
+- §7Это легко исправить! Выбери свою новую
+- §7клетку прямо сейчас, чтобы выделяться
+- §7среди других игроков
+CATEGORY_CAGE_NAME: Клетки
+CATEGORY_KIT_LORE:
+- ' '
+- §7Выбор вещей, которые Вы получаете
+- §7в начале игры. Множество различных
+- §7вариантов, выбери свой!
+CATEGORY_KIT_NAME: Наборы
+CATEGORY_PERK_LORE:
+- ' '
+- §7Умения дают различные способности,
+- §7которые могут очень помочь в бою.
+CATEGORY_PERK_NAME: Умения
+
+#смерти
+DAMAGE_CAUSE_BOW: '%s§f застрелен'
+DAMAGE_CAUSE_BOW_TO: '%s§f застрелен игроком %s'
+DAMAGE_CAUSE_BURN: '%s§f сгорел заживо'
+DAMAGE_CAUSE_BURN_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_CACTUS: '%s§f исколот до смерти'
+DAMAGE_CAUSE_CACTUS_TO: '%s§f наткнулся на кактус, спасаясь от %s'
+DAMAGE_CAUSE_CONTACT: '%s§f исколот до смерти'
+DAMAGE_CAUSE_CONTACT_TO: '%s§f наткнулся на кактус, спасаясь от %s'
+DAMAGE_CAUSE_DROP: '%s§f разбился насмерть'
+DAMAGE_CAUSE_DROP_TO: '%s§f был скинут игроком %s'
+DAMAGE_CAUSE_DROWNING: '%s§f утонул'
+DAMAGE_CAUSE_DROWNING_TO: '%s§f утонул, спасаясь от %s'
+DAMAGE_CAUSE_ENTITY_EXPLOSION: '%s§f взорвался'
+DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_EXPLOSION: '%s§f взорвался'
+DAMAGE_CAUSE_EXPLOSION_TO: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_FALL: '%s§f разбился насмерть'
+DAMAGE_CAUSE_FALL_TO: '%s§f был скинут игроком %s'
+DAMAGE_CAUSE_FIRE: '%s§f сгорел заживо'
+DAMAGE_CAUSE_FIRE_TICK: '%s§f сгорел заживо'
+DAMAGE_CAUSE_FIRE_TICK_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_FIRE_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_KILLED: '%s§f решил покинуть наш мир'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f был убит туманным зельем'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f был убит туманным зельем игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_ARROW: '%s§f был застрелен'
+DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_BLAZE: '%s§f был испепелён ифритом'
+DAMAGE_CAUSE_KILLED_BY_BLAZE_OF: '%s§f был испепелён ифритом игрока %s'
+DAMAGE_CAUSE_KILLED_BY_CREEPER: '%s§f был убит взрывом крипера'
+DAMAGE_CAUSE_KILLED_BY_CREEPER_OF: '%s§f был убит взрывом крипера игрока %s'
+DAMAGE_CAUSE_KILLED_BY_EGG_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL: '%s§f был убит об удар о жемчуг эндера'
+DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL_OF: '%s§f был убит об удар о жемчуг эндера игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN: '%s §fопробовал на себе лазер стража'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF: '%s §fопробовал на себе лазер стража игрока %s'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f испытал на себе фокусы иллюзиониста'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f испытал на себе фокусы иллюзиониста игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM: '%s§f погиб в объятиях железного голема'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM_OF: '%s§f погиб в объятиях железного голема игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f был убит разъярённым зевсом'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING_OF: '%s§f был убит молнией игрока %s'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f был убит туманным зельем'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f был убит туманным зельем игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE: '%s§f был убит свинозомби'
+DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE_OF: '%s§f был убит свинозомби игрока %s'
+DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT: '%s§f взорвался'
+DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT_OF: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SHULKER: '%s§f отправился на небеса шалкером'
+DAMAGE_CAUSE_KILLED_BY_SHULKER_OF: '%s§f отправился на небеса шалкером игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SILVERFISH: '%s§f был убит глупой чешуйницей'
+DAMAGE_CAUSE_KILLED_BY_SILVERFISH_OF: '%s§f был убит глупой чешуйницей игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f был убит, пытаясь увернуться от стрел скелета'
+DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f был убит, пытаясь увернуться от стрел скелета
+  игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SLIME: '%s§f был раздавлен злым слаймом'
+DAMAGE_CAUSE_KILLED_BY_SLIME_OF: '%s§f был раздавлен злым слаймом игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SNOWBALL_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW: '%s§f был застрелен'
+DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SPIDER: '%s§f погиб от укуса паука'
+DAMAGE_CAUSE_KILLED_BY_SPIDER_OF: '%s§f был убит пауками игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION: '%s§f погиб от магии'
+DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION_OF: '%s§f погиб от магии игрока %s'
+DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f был растерзан стаей вредин'
+DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f был растерзан стаей вредин игрока %s'
+DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f был растерзан волками'
+DAMAGE_CAUSE_KILLED_BY_WOLF_OF: '%s§f был растерзан волками игрока %s'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f был убит, спасаясь от зомби'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f был убит, спасаясь от зомби игрока %s'
+DAMAGE_CAUSE_KILLED_OF: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYER: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYERS: '%s§f был убит игроками %s'
+DAMAGE_CAUSE_KILLED_TO: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_LAVA: '%s§f решил поплавать в лаве'
+DAMAGE_CAUSE_LAVA_TO: '%s§f упал в лаву, убегая от %s'
+DAMAGE_CAUSE_MAGIC: '%s§f был убит с помощью магии'
+DAMAGE_CAUSE_MAGIC_TO: '%s§f был убит с помощью магии игроком %s'
+DAMAGE_CAUSE_OUT: '%s§f выпал из мира'
+DAMAGE_CAUSE_OUT_TO: '%s§f выпал из мира, пока боролся с %s'
+DAMAGE_CAUSE_PROJECTILE: '%s§f застрелен'
+DAMAGE_CAUSE_PROJECTILE_TO: '%s§f застрелен игроком %s'
+DAMAGE_CAUSE_SUCIDE: '%s§f решил покончить жизнь самоубийством'
+DAMAGE_CAUSE_SUICIDE: '%s§f решил покончить жизнь самоубийством'
+DAMAGE_CAUSE_SWIM: '%s§f утонул'
+DAMAGE_CAUSE_SWIM2: '%s§f решил поплавать в лаве'
+DAMAGE_CAUSE_SWIM2_TO: '%s§f упал в лаву, убегая от %s'
+DAMAGE_CAUSE_SWIM_TO: '%s§f утонул, спасаясь от %s'
+DAMAGE_CAUSE_VOID: '%s§f выпал из мира'
+DAMAGE_CAUSE_VOID_TO: '%s§f выпал из мира, пока боролся с %s'
+
+#Всякие окончания
+AVAILABLE_1:
+- Доступ
+- ен
+- но
+- но
+GOLD_1:
+- золот
+- о
+- а
+- о
+PLAYERS_1:
+- игрок
+- ''
+- а
+- ов
+TIME_DAY_1:
+- д
+- ень
+- ня
+- ней
+TIME_HOURS_1:
+- час
+- ''
+- а
+- ов
+TIME_MINUTES_1:
+- минут
+- у
+- ы
+- ''
+TIME_MINUTES_2:
+- минут
+- а
+- ы
+- ''
+TIME_SECOND_1:
+- секунд
+- у
+- ы
+- ''
+TIME_SECOND_2:
+- секунд
+- а
+- ы
+- ''
+WINS_1:
+- побед
+- а
+- ы
+- ''
+
+#СкайВорс
+SW_SOLO_GAME_DESC:
+- 'Ваша задача с помощью предметов в сундуках, навыков PvP,'
+- 'наборов и умений, а также с помощью нестандартного подхода'
+- 'остаться последним выжившим на арене'
+- 'Побеждает хитрейший!'
+SW_DOUBLES_GAME_DESC:
+- 'Ваша с союзником задача с помощью предметов в сундуках,'
+- 'навыков PvP, наборов и умений, а также с помощью нестандартного'
+- 'подхода и совместной игры остаться последней выжившей командой'
+
+CAGE_PURCHASE_MESSAGE: Вы приобрели клетку §a%s §fза §a%s §f%s
+CAGE_SELECTION_MESSAGE: Вы выбрали клетку §a%s
+CAGE_SW_ACACIA: Акация
+CAGE_SW_ACACIA_LORE: [
+  ]
+CAGE_SW_BIRCH: Березовая
+CAGE_SW_BIRCH_LORE: [
+  ]
+CAGE_SW_DARK_OAK: Темная акация
+CAGE_SW_DARK_OAK_LORE: [
+  ]
+CAGE_SW_GLASS: Стекло
+CAGE_SW_GLASS_LORE: [
+  ]
+CAGE_SW_ICE: Лёд
+CAGE_SW_ICE_LORE: [
+  ]
+CAGE_SW_IRON_BARDING: Железная
+CAGE_SW_IRON_BARDING_LORE: [
+  ]
+CAGE_SW_JUNGLE: Джунгли
+CAGE_SW_JUNGLE_LORE: [
+  ]
+CAGE_SW_LEAVES: Лиственная
+CAGE_SW_LEAVES_LORE: [
+  ]
+CAGE_SW_NETHER: Адская
+CAGE_SW_NETHER_LORE: [
+  ]
+CAGE_SW_SLIME: Слаймовая
+CAGE_SW_SLIME_LORE: [
+  ]
+CAGE_SW_SPRUCE: Еловая
+CAGE_SW_SPRUCE_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1: Тонкое стекло
+CAGE_SW_STAINED_GLASS_10: Бирюза
+CAGE_SW_STAINED_GLASS_10_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_11: Мистическая
+CAGE_SW_STAINED_GLASS_11_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_12: Небесная
+CAGE_SW_STAINED_GLASS_12_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_13: Кофе
+CAGE_SW_STAINED_GLASS_13_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_14: Зеленая
+CAGE_SW_STAINED_GLASS_14_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_15: Ярость
+CAGE_SW_STAINED_GLASS_15_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_16: Темная
+CAGE_SW_STAINED_GLASS_16_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_2: Ангельская
+CAGE_SW_STAINED_GLASS_2_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_3: Ириска
+CAGE_SW_STAINED_GLASS_3_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_4: Сиреневая
+CAGE_SW_STAINED_GLASS_4_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_5: Банан
+CAGE_SW_STAINED_GLASS_5_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_6: Лаймовая
+CAGE_SW_STAINED_GLASS_6_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_7: Жевательная резинка
+CAGE_SW_STAINED_GLASS_7_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_8: Пустота
+CAGE_SW_STAINED_GLASS_8_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_9: Облачная
+CAGE_SW_STAINED_GLASS_9_LORE: [
+  ]
+CAGE_SW_WOOD: Деревянная
+CAGE_SW_WOOD_LORE: [
+  ]
+KIT_SW_ARCHER: 'Лучник'
+KIT_SW_ARCHER_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Лук'
+- ' §8• §7Железный нагрудник §8(Защита от снарядов V)'
+- ' §8• §7Железные ботинки'
+- ' §8• §7Спектральная стрела §8(x6)'
+- ' §8• §7Стрела исцеления II §8(x2)'
+- ' §8• §7Стрела отравления §8(x2)'
+- ' §8• §7Стрела слабости II§8(x2)'
+KIT_SW_ARCWIZARD: 'Архимаг'
+KIT_SW_ARCWIZARD_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Стол зачарования'
+- ' §8• §7Пузырёк опыта §8(x40)'
+- ' §8• §7Книжная полка §8(x15)'
+- ' §8• §7Золотой шлем'
+- ' §8• §7Золотой нагрудник'
+- ' §8• §7Золотые штаны'
+- ' §8• §7Золотые ботинки'
+KIT_SW_BOMBER: 'Подрывник'
+KIT_SW_BOMBER_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Динамит §8(x15)'
+- ' §8• §7Яйцо крипера §8(x5)'
+- ' §8• §7Зажигалка'
+- ' §8• §7Железный шлем §8(Взрывоустойчивость III)'
+- ' §8• §7Железный нагрудник §8(Взрывоустойчивость III)'
+KIT_SW_BONE_BREAKER: 'Костолом'
+KIT_SW_BONE_BREAKER_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Алмазный нагрудник §8(Шипы III)'
+- ' §8• §7Туманное зелье слабости §8(x3, на 20 секунд)'
+- ' §8• §7Туманное зелье замедления IV §8(x2, на 20 секунд)'
+- ' §8• §7Взрывное зелье слепоты §8(x3, на 10 секунд)'
+KIT_SW_ELYTRA: 'Валь-кира'
+KIT_SW_ELYTRA_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Элитры §8(Проклятие несъемности I, Защита II)'
+- ' §8• §7Алмазные штаны'
+- ' §8• §7Железные ботинки §8(Невесомость III)'
+- ' §8• §7Яйцо вредины §8(x6)'
+KIT_SW_HEALER: 'Медик'
+KIT_SW_HEALER_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Туманное зелье лечения II §8(x2)'
+- ' §8• §7Взрывное зелье лечения II §8(x3)'
+- ' §8• §7Взрывное зелье регенерации II §8(x2)'
+- ' §8• §7Железные штаны'
+- ' §8• §7Алмазные ботинки'
+KIT_SW_HELLBOY: 'Хэллбой'
+KIT_SW_HELLBOY_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Золотые штаны §8(Огнеупорность II)'
+- ' §8• §7Золотой нагрудник §8(Огнеупорность II)'
+- ' §8• §7Золотой меч §8(Заговор огня II)'
+- ' §8• §7Зелье огнестойкости §8(на 8 минут)'
+- ' §8• §7Ведро лавы §8(x4)'
+- ' §8• §7Магмовые блоки §8(x32)'
+KIT_SW_MAGIC: 'Экзорцист'
+KIT_SW_MAGIC_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Туманное зелье моментального урона II §8(x3)'
+- ' §8• §7Взрывное зелье моментального урона §8(x3)'
+- ' §8• §7Алмазные штаны'
+- ' §8• §7Алмазные ботинки'
+KIT_SW_NECROMANT: 'Некромант'
+KIT_SW_NECROMANT_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Туманное зелье урона II'
+- ' §8• §7Яйцо зомби §8(x5)'
+- ' §8• §7Яйцо скелета §8(x5)'
+- ' §8• §7Алмазный нагрудник'
+KIT_SW_RAMBO: 'Рембо'
+KIT_SW_RAMBO_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Кольчужный шлем'
+- ' §8• §7Кольчужный нагрудник'
+- ' §8• §7Кольчужные штаны'
+- ' §8• §7Алмазные ботинки §8(Невесомость II)'
+- ' §8• §7Железный меч'
+- ' §8• §7Булыжник §8(x20)'
+KIT_SW_RONIN: 'Ронин'
+KIT_SW_RONIN_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Алмазные ботинки'
+- ' §8• §7Алмазный меч'
+- ' §8• §7Зелье прыгучести II §8(x2)'
+KIT_SW_TELEKINETIC: 'Телекинетик'
+KIT_SW_TELEKINETIC_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Железные штаны'
+- ' §8• §7Железные ботинки §8(Невесомость IV)'
+- ' §8• §7Взрывное зелье левитации II §8(x4, на 5 секунд)'
+- ' §8• §7Питьевое зелье левитации VIII §8(x2, на 3 секунды)'
+- ' §8• §7Яйцо шалкера'
+KIT_SW_ROCK_KIT: 'Скала'
+KIT_SW_ROCK_KIT_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Алмазный нагрудник §8(Защита I)'
+- ' §8• §7Щит §8(Прочность V)'
+- ' §8• §7Обсидиан §8(x24)'
+KIT_SW_VIKING: 'Викинг'
+KIT_SW_VIKING_LORE:
+- ''
+- '§7Содержит в себе:'
+- ' §8• §7Алмазный топор §8(Эффективность V)'
+- ' §8• §7Алмазный шлем'
+- ' §8• §7Железный нагрудник §8(Защита I)'
+PERK_SW_AIR_SUPPORT: 'Воздушная поддержка'
+PERK_SW_AIR_SUPPORT_LORE:
+- ''
+- '§7Когда Вы получаете урон от падения, все Ваши'
+- '§7противники в радиусе 5 блоков получат эффект'
+- '§7слабости II на 3 секунды'
+PERK_SW_ARES: 'Арес'
+PERK_SW_ARES_LORE:
+- ''
+- '§7При убийстве врага Вы получите'
+- '§7эффект регенерации II на 10 секунд'
+- '§7Если Вы умрете, у вашего убийцы'
+- '§7из инвентаря пропадет случайное оружие'
+PERK_SW_ARGILLIC: 'Архилич'
+PERK_SW_ARGILLIC_LORE:
+- ''
+- '§7При убийстве игрока вы получаете'
+- '§7яйцо призыва скелета. Этот скелет'
+- '§7получает железный меч и железную броню'
+PERK_SW_ARROW_RECOVERY: 'Стрелец'
+PERK_SW_ARROW_RECOVERY_LORE:
+- ''
+- '§7При попадании во врага из лука'
+- '§7с шансом 75٪ к вам в инвентарь'
+- '§7вернётся эта стрела'
+PERK_SW_GREEN_ARROW: 'Зеленая стрела'
+PERK_SW_GREEN_ARROW_LORE:
+- ''
+- '§7При убийстве другого игрока из лука Вы получаете 3'
+- '§7случайных стрелы с одним из трёх возможных эффектов:'
+- '§8моментальный урон II§7, §8слабость II§7, §8отравление II'
+PERK_SW_BERSERK: 'Берсерк'
+PERK_SW_BERSERK_LORE:
+- ''
+- '§7Пока в обоих ваших руках будут два одинаковых'
+- '§7топора Вы получите постоянный эффект силы I'
+PERK_SW_CUPID: 'Купидон'
+PERK_SW_CUPID_LORE:
+- ''
+- '§7При старте игры максимальное количество'
+- '§7здоровья увеличивается на 2 сердца. После'
+- '§7четвертого убийства Вы получите еще 2 сердца'
+- '§7а также постоянный эффект сопротивления урону'
+PERK_SW_DARK_TIME: 'Час тьмы'
+PERK_SW_DARK_TIME_LORE:
+- ''
+- '§7После вашей смерти противник получит эффект слепоты'
+- '§7и иссушения II на 10 секунд, а на месте вашей смерти'
+- '§7появится 2 скелета в железной броне'
+PERK_SW_MATRIX: 'Матрица'
+PERK_SW_MATRIX_LORE:
+- ''
+- '§7Вы не получаете эффектов от'
+- '§7любых брошенных в Вас зелий'
+PERK_SW_NINJA: 'Ниндзя'
+PERK_SW_NINJA_LORE:
+- ''
+- '§7Пока в обоих ваших руках будут 2 одинаковых меча Вы'
+- '§7будете иметь постоянный эффект силы III и слабости II'
+PERK_SW_SMOKE_BOMB: 'Дымовая шашка'
+PERK_SW_SMOKE_BOMB_LORE:
+- ''
+- '§7При получении урона с шансом 20٪'
+- '§7Вы получите эффект ночного зрения,'
+- '§7а Ваш противник - слепоту (на 5 с.)'
+PERK_SW_SONIC: 'Соник'
+PERK_SW_SONIC_LORE:
+- ''
+- '§7После старта игры Вы получите постоянный'
+- '§7эффект скорости I. Уровень скорости от'
+- '§7события "Ускорение" будет увеличен на I'
+PERK_SW_VAMPIRE: 'Вампир'
+PERK_SW_VAMPIRE_LORE:
+- ''
+- '§7При получении урона более чем'
+- '§7на 2.5 сердца (за раз) Вы получаете'
+- '§7эффект насыщения на 3 секунды'
+PERK_SW_ZEUS: 'Зевс'
+PERK_SW_ZEUS_LORE:
+- ''
+- '§7После Вашей кончины молния ударит на месте'
+- '§7смерти, а также в противников в радиусе 5'
+- '§7блоков от Вас. А также, через 2 сек'
+- '§7молния повторно ударит в место вашей смерти'
+SKYWARS_DOUBLES_TYPE: §eПарный режим
+SKYWARS_END_EFFECTS_EVENT: '§cФинал игры (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7Игра будет завершена через минуту
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cФинал игры
+SKYWARS_GAME_END_EVENT: '§cКонец '
+SKYWARS_GLOWING_EVENT: '§aСвечение игроков '
+SKYWARS_GLOWING_EVENT_STARTED: §eВсе игроки получили эффект свечения
+SKYWARS_INSANE_CHOSEN_EVENTS: §6§lВыбраны случайные игровые события
+SKYWARS_LIGHTNING_EVENT: '§cФинал игры (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §7До конца осталось 3 минуты, избегайте молний...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cЯрость зевса
+SKYWARS_LOOT_EVENT: '§aОбновление лута '
+SKYWARS_LOOT_EVENT_STARTED: §aЛут в сундуках на центре карты был обновлен
+SKYWARS_SOLO_TYPE: §eОдиночный режим
+SKYWARS_SPEED_EVENT: '§aУскорение '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6§lSkyWars §8| §fВы получили эффект скорости
+  §a%s§f, поскольку выбрали умение §aСоник
+SKYWARS_SPEED_EVENT_STARTED: §aВсе игроки получили эффект скорости %s
+SKYWARS_TNTRAIN_EVENT: '§cФинал игры '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Над головами игроков появляется динамит, остерегайтесь!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cДождь из TNT
+SW_BOARD_KILLS: ' Убийств: §a'
+SW_BOARD_NEXT_EVENT: ' Следующее событие:'
+SW_CHEST_EMPTY: §4Сундук пуст
+SW_GAME_ENDED: Игра будет завершена. Победителем становится случайная команда...
+SW_PLAYERS_ALIVE: ' Игроков: §a'
+SW_TEAMS_ALIVE: ' Команд: §a'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cУ вашего тиммейта %s §cочень мало здоровья!
+SW_YOUR_TEAMMATE_IS_DEAD: §cВаш тиммейт (%s§c) погиб
+SW_GAME_STARTED_SUBTITLE: '§7Станьте последним выжившим!'
+
